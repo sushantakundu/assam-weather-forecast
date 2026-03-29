@@ -1,7 +1,7 @@
 {
-    "model_run": "2026-03-29 05:30 IST",
-    "forecast_start": "2026-03-29 05:30 IST",
-    "forecast_end": "2026-03-30 05:30 IST",
+    "model_run": "2026-03-29 11:30 IST",
+    "forecast_start": "2026-03-29 11:30 IST",
+    "forecast_end": "2026-03-30 11:30 IST",
     "forecast_type": "0-24hr",
     "source": "GFS",
     "data": [
@@ -9,232 +9,232 @@
             "district": "Jorhat",
             "district_id": "jorhat",
             "tmax": 25.1,
-            "tmin": 17.8,
-            "rainfall": 2.5
+            "tmin": 18.3,
+            "rainfall": 1.7
         },
         {
             "district": "Golaghat",
             "district_id": "golaghat",
             "tmax": 24.4,
-            "tmin": 18.1,
-            "rainfall": 2.8
+            "tmin": 18.5,
+            "rainfall": 2.3
         },
         {
             "district": "Nagaon",
             "district_id": "nagaon",
-            "tmax": 25.5,
-            "tmin": 18.7,
-            "rainfall": 4.6
+            "tmax": 26.1,
+            "tmin": 19.2,
+            "rainfall": 6.0
         },
         {
             "district": "East Karbi Anglong",
             "district_id": "east_karbi_anglong",
-            "tmax": 24.7,
-            "tmin": 16.8,
-            "rainfall": 4.9
+            "tmax": 25.3,
+            "tmin": 17.2,
+            "rainfall": 4.5
         },
         {
             "district": "Morigaon",
             "district_id": "morigaon",
-            "tmax": 25.8,
-            "tmin": 18.6,
-            "rainfall": 5.0
+            "tmax": 27.1,
+            "tmin": 19.4,
+            "rainfall": 4.6
         },
         {
             "district": "Dhuburi",
             "district_id": "dhuburi",
-            "tmax": 25.3,
-            "tmin": 19.9,
-            "rainfall": 1.5
+            "tmax": 28.9,
+            "tmin": 20.6,
+            "rainfall": 0.4
         },
         {
             "district": "West Karbi Anglong",
             "district_id": "west_karbi_anglong",
-            "tmax": 24.0,
-            "tmin": 16.6,
-            "rainfall": 4.8
+            "tmax": 25.4,
+            "tmin": 16.8,
+            "rainfall": 5.2
         },
         {
             "district": "Kamrup metro",
             "district_id": "kamrup_metro",
-            "tmax": 25.8,
-            "tmin": 18.5,
-            "rainfall": 4.3
+            "tmax": 27.1,
+            "tmin": 19.2,
+            "rainfall": 4.5
         },
         {
             "district": "Sibsagar",
             "district_id": "sibsagar",
-            "tmax": 24.5,
-            "tmin": 17.7,
+            "tmax": 24.4,
+            "tmin": 18.3,
             "rainfall": 1.9
         },
         {
             "district": "Barpeta",
             "district_id": "barpeta",
-            "tmax": 26.1,
-            "tmin": 19.1,
-            "rainfall": 1.1
+            "tmax": 27.0,
+            "tmin": 20.2,
+            "rainfall": 0.8
         },
         {
             "district": "Kamrrup Rural",
             "district_id": "kamrrup_rural",
-            "tmax": 25.3,
-            "tmin": 18.0,
-            "rainfall": 4.6
+            "tmax": 27.1,
+            "tmin": 18.3,
+            "rainfall": 4.7
         },
         {
             "district": "Goalpara",
             "district_id": "goalpara",
-            "tmax": 26.6,
-            "tmin": 19.2,
-            "rainfall": 2.3
+            "tmax": 29.0,
+            "tmin": 19.4,
+            "rainfall": 2.2
         },
         {
             "district": "Lakhimpur",
             "district_id": "lakhimpur",
-            "tmax": 24.0,
-            "tmin": 17.9,
-            "rainfall": 2.0
+            "tmax": 24.1,
+            "tmin": 18.3,
+            "rainfall": 1.1
         },
         {
             "district": "Darrang",
             "district_id": "darrang",
-            "tmax": 24.6,
-            "tmin": 18.6,
-            "rainfall": 2.7
+            "tmax": 25.4,
+            "tmin": 19.5,
+            "rainfall": 4.1
         },
         {
             "district": "Chirang",
             "district_id": "chirang",
-            "tmax": 25.1,
-            "tmin": 18.4,
-            "rainfall": 1.1
+            "tmax": 25.6,
+            "tmin": 19.3,
+            "rainfall": 1.4
         },
         {
             "district": "Baksa",
             "district_id": "baksa",
-            "tmax": 25.4,
-            "tmin": 18.2,
-            "rainfall": 1.7
+            "tmax": 25.5,
+            "tmin": 18.6,
+            "rainfall": 2.9
         },
         {
             "district": "Nalbari",
             "district_id": "nalbari",
-            "tmax": 25.5,
-            "tmin": 19.2,
-            "rainfall": 1.0
+            "tmax": 26.7,
+            "tmin": 20.1,
+            "rainfall": 0.9
         },
         {
             "district": "Bongaigaon",
             "district_id": "bongaigaon",
-            "tmax": 26.8,
-            "tmin": 19.4,
+            "tmax": 28.5,
+            "tmin": 20.3,
             "rainfall": 0.9
         },
         {
             "district": "Dibrugarh",
             "district_id": "dibrugarh",
-            "tmax": 24.2,
-            "tmin": 17.7,
-            "rainfall": 1.7
+            "tmax": 24.1,
+            "tmin": 18.0,
+            "rainfall": 2.1
         },
         {
             "district": "Tinsukia",
             "district_id": "tinsukia",
-            "tmax": 23.5,
-            "tmin": 17.1,
-            "rainfall": 0.8
+            "tmax": 23.4,
+            "tmin": 16.9,
+            "rainfall": 1.3
         },
         {
             "district": "Dhemaji",
             "district_id": "dhemaji",
-            "tmax": 24.2,
-            "tmin": 17.2,
+            "tmax": 24.4,
+            "tmin": 17.6,
             "rainfall": 2.0
         },
         {
             "district": "Kokrajhar",
             "district_id": "kokrajhar",
-            "tmax": 25.4,
-            "tmin": 18.9,
-            "rainfall": 1.3
+            "tmax": 27.3,
+            "tmin": 19.7,
+            "rainfall": 0.4
         },
         {
             "district": "Udalguri",
             "district_id": "udalguri",
-            "tmax": 25.1,
-            "tmin": 18.5,
-            "rainfall": 0.8
+            "tmax": 25.0,
+            "tmin": 19.0,
+            "rainfall": 1.5
         },
         {
             "district": "Hojai",
             "district_id": "hojai",
-            "tmax": 27.1,
-            "tmin": 18.5,
+            "tmax": 28.0,
+            "tmin": 19.7,
             "rainfall": 0.4
         },
         {
             "district": "Saraideo",
             "district_id": "saraideo",
             "tmax": 24.2,
-            "tmin": 17.6,
-            "rainfall": 1.3
+            "tmin": 17.7,
+            "rainfall": 2.0
         },
         {
             "district": "Majuli",
             "district_id": "majuli",
-            "tmax": 24.7,
-            "tmin": 18.1,
-            "rainfall": 2.1
+            "tmax": 24.8,
+            "tmin": 18.8,
+            "rainfall": 1.2
         },
         {
             "district": "Mancachar",
             "district_id": "mancachar",
-            "tmax": 28.1,
-            "tmin": 19.3,
-            "rainfall": 4.2
+            "tmax": 31.3,
+            "tmin": 19.6,
+            "rainfall": 3.2
         },
         {
             "district": "Biswanath",
             "district_id": "biswanath",
-            "tmax": 25.1,
-            "tmin": 17.8,
-            "rainfall": 3.4
+            "tmax": 25.0,
+            "tmin": 18.0,
+            "rainfall": 3.8
         },
         {
             "district": "Sonitpur",
             "district_id": "sonitpur",
             "tmax": 25.5,
-            "tmin": 17.8,
-            "rainfall": 3.2
+            "tmin": 17.9,
+            "rainfall": 3.9
         },
         {
             "district": "Cachar",
             "district_id": "cachar",
-            "tmax": 29.5,
-            "tmin": 17.8,
-            "rainfall": 2.8
+            "tmax": 29.2,
+            "tmin": 18.4,
+            "rainfall": 4.8
         },
         {
             "district": "Karimganj",
             "district_id": "karimganj",
-            "tmax": 31.4,
-            "tmin": 19.0,
-            "rainfall": 3.3
+            "tmax": 31.2,
+            "tmin": 19.1,
+            "rainfall": 4.1
         },
         {
             "district": "Hailakandi",
             "district_id": "hailakandi",
-            "tmax": 32.5,
-            "tmin": 18.1,
-            "rainfall": 4.2
+            "tmax": 32.3,
+            "tmin": 18.4,
+            "rainfall": 4.0
         },
         {
             "district": "NC Hills",
             "district_id": "nc_hills",
-            "tmax": 23.9,
-            "tmin": 16.1,
-            "rainfall": 1.9
+            "tmax": 26.1,
+            "tmin": 16.2,
+            "rainfall": 3.2
         }
     ]
 }
