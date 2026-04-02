@@ -1,7 +1,7 @@
 {
     "source": "IMD AWS/ARG",
-    "generated_at": "2026-04-01 23:42 UTC",
-    "station_count": 180,
+    "generated_at": "2026-04-02 00:02 UTC",
+    "station_count": 173,
     "data": [
         {
             "ID": "ARHAY000",
@@ -26,10 +26,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.5",
             "Feel Like": "16.9",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "561802C4",
@@ -54,10 +54,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "13.5",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "5617FA00",
@@ -82,10 +82,10 @@
             "RAINFALL_SEL": "0.0",
             "RAINFALL": "0.0",
             "Feel Like": "15.5",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "56182428",
@@ -110,10 +110,10 @@
             "RAINFALL_SEL": "0.0",
             "RAINFALL": "0.0",
             "Feel Like": "13.2",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ARKBR000",
@@ -138,10 +138,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "1.0",
             "Feel Like": "26.9",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0A35796",
@@ -166,10 +166,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "1.0",
             "Feel Like": "26.3",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "4953A260",
@@ -194,10 +194,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "17.1",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ARKKS000",
@@ -222,10 +222,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "21.4",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0A34A32",
@@ -250,10 +250,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "25.7",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0A20BC2",
@@ -278,10 +278,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.5",
             "Feel Like": "4.2",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0A1E1EC",
@@ -306,10 +306,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "24.5",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0A1EF3E",
@@ -334,10 +334,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.5",
             "Feel Like": "23.8",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0A26E24",
@@ -390,10 +390,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "24.8",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0A0E316",
@@ -418,10 +418,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "24.7",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0A199AE",
@@ -446,10 +446,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "22.5",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0B513CC",
@@ -474,10 +474,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "23.8",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASLKE000",
@@ -502,10 +502,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "31.4",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "49530298",
@@ -586,10 +586,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "32.3",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0A1FC48",
@@ -614,10 +614,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "59.3",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0A0F060",
@@ -642,10 +642,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "25.1",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0A32FD4",
@@ -670,10 +670,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "23.3",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASSCC000",
@@ -698,10 +698,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "26.3",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0A2E830",
@@ -726,10 +726,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "30.2",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "MRCAK000",
@@ -754,10 +754,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "29.6",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "MRGEL000",
@@ -782,10 +782,10 @@
             "RAINFALL_SEL": "0.0",
             "RAINFALL": "0.0",
             "Feel Like": "26",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0A307EA",
@@ -810,10 +810,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "34.4",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0A2FB46",
@@ -894,38 +894,10 @@
             "RAINFALL_SEL": "0.0",
             "RAINFALL": "0.0",
             "Feel Like": "1.8",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
-        },
-        {
-            "ID": "MRSKU000",
-            "CALL_SIGN": null,
-            "DISTRICT": "KANGPOKPI",
-            "STATE": "MANIPUR",
-            "STATION": "SAIKUL",
-            "DATE": "2026-03-31",
-            "TIME": "22:15:00",
-            "CURR_TEMP": "1.9",
-            "DEW_POINT_TEMP": null,
-            "RH": "100",
-            "WIND_DIRECTION": "258",
-            "WIND_SPEED": 1.9,
-            "MSLP": null,
-            "MIN_TEMP": "14.4",
-            "MAX_TEMP": "24.2",
-            "Latitude": "25.0626",
-            "Longitude": "94.0251",
-            "WEATHER_CODE": "0",
-            "NEBULOSITY": "0",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.5",
-            "Feel Like": "1.9",
-            "WEATHER_ICON": "150-fill",
-            "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "MRTUJ000",
@@ -950,10 +922,10 @@
             "RAINFALL_SEL": "0.0",
             "RAINFALL": "0.0",
             "Feel Like": "23.5",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "MRNOY000",
@@ -978,10 +950,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "30",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "MRSOS000",
@@ -1006,66 +978,10 @@
             "RAINFALL_SEL": "0.0",
             "RAINFALL": "0.0",
             "Feel Like": "23.4",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
-        },
-        {
-            "ID": "MRADC000",
-            "CALL_SIGN": null,
-            "DISTRICT": "TENGNOUPAL",
-            "STATE": "MANIPUR",
-            "STATION": "ADC MOREH",
-            "DATE": "2026-03-31",
-            "TIME": "23:30:00",
-            "CURR_TEMP": "2.3",
-            "DEW_POINT_TEMP": null,
-            "RH": "100",
-            "WIND_DIRECTION": "185",
-            "WIND_SPEED": 1.9,
-            "MSLP": "1008.5",
-            "MIN_TEMP": "0.7",
-            "MAX_TEMP": "28.8",
-            "Latitude": "24.2596",
-            "Longitude": "94.2897",
-            "WEATHER_CODE": "0",
-            "NEBULOSITY": "0",
-            "RAINFALL_SEL": "NULL",
-            "RAINFALL": "0.0",
-            "Feel Like": "2.3",
-            "WEATHER_ICON": "150-fill",
-            "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
-        },
-        {
-            "ID": "A0A2D378",
-            "CALL_SIGN": null,
-            "DISTRICT": "THOUBAL",
-            "STATE": "MANIPUR",
-            "STATION": "THOUBAL",
-            "DATE": "2026-03-31",
-            "TIME": "08:45:00",
-            "CURR_TEMP": "27.2",
-            "DEW_POINT_TEMP": null,
-            "RH": "58",
-            "WIND_DIRECTION": "273",
-            "WIND_SPEED": 11.1,
-            "MSLP": "952.6",
-            "MIN_TEMP": "17.4",
-            "MAX_TEMP": "26.4",
-            "Latitude": "24.6142",
-            "Longitude": "94.0222",
-            "WEATHER_CODE": "5",
-            "NEBULOSITY": "0",
-            "RAINFALL_SEL": "NULL",
-            "RAINFALL": "0.0",
-            "Feel Like": "28.2",
-            "WEATHER_ICON": 502,
-            "WEATHER_MESSAGE": "Haze",
-            "BACKGROUND": "smoke_haze.png",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/smoke_haze.png"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0A2556C",
@@ -1090,10 +1006,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "30.6",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0A27380",
@@ -1146,10 +1062,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.5",
             "Feel Like": "23.2",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "MERES000",
@@ -1174,10 +1090,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "25.8",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0A25BBE",
@@ -1202,10 +1118,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.5",
             "Feel Like": "24.5",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "MEAMJ000",
@@ -1230,10 +1146,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "30.4",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "MEMWK000",
@@ -1258,10 +1174,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "20.5",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0A260F6",
@@ -1286,10 +1202,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "30.6",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0A27D52",
@@ -1370,10 +1286,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "16",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "MIHNA000",
@@ -1398,10 +1314,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "29.9",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "MIKHZ000",
@@ -1426,10 +1342,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "28.7",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "MIKOB000",
@@ -1454,10 +1370,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "29.9",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "MICAW000",
@@ -1482,10 +1398,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "25",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "MISAF000",
@@ -1510,10 +1426,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "30.9",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "MISED000",
@@ -1538,10 +1454,10 @@
             "RAINFALL_SEL": "0.0",
             "RAINFALL": "0.0",
             "Feel Like": "27.5",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "495397FA",
@@ -1566,10 +1482,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "34.6",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "NANEQ000",
@@ -1594,10 +1510,10 @@
             "RAINFALL_SEL": "0.0",
             "RAINFALL": "0.0",
             "Feel Like": "23.4",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "AAADE0F6",
@@ -1622,10 +1538,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "20.8",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "NASAY000",
@@ -1650,10 +1566,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.5",
             "Feel Like": "24.3",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "NATYU000",
@@ -1678,10 +1594,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "19.1",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "5B76500A",
@@ -1706,10 +1622,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "80.3",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "SIGAT000",
@@ -1734,10 +1650,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "18.7",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0AD4E5A",
@@ -1790,10 +1706,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "33",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0B4B1CE",
@@ -1818,10 +1734,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "40.7",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "TRASA000",
@@ -1846,10 +1762,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "40.1",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0B4BF1C",
@@ -1902,10 +1818,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "31.4",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0A2B84C",
@@ -1930,10 +1846,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "39.1",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "TRSBO000",
@@ -1958,10 +1874,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "32.2",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "TRKIH000",
@@ -2042,38 +1958,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "20",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
-        },
-        {
-            "ID": "55CA4BF4",
-            "CALL_SIGN": null,
-            "DISTRICT": "KURUNG_KUMEY",
-            "STATE": "ARUNACHAL_PRADESH",
-            "STATION": "NYAPIN",
-            "DATE": "2026-03-31",
-            "TIME": "19:00:00",
-            "CURR_TEMP": "17.8",
-            "DEW_POINT_TEMP": null,
-            "RH": null,
-            "WIND_DIRECTION": 0,
-            "WIND_SPEED": 0,
-            "MSLP": null,
-            "MIN_TEMP": null,
-            "MAX_TEMP": null,
-            "Latitude": "27.7481",
-            "Longitude": "93.3892",
-            "WEATHER_CODE": "0",
-            "NEBULOSITY": "0",
-            "RAINFALL_SEL": "NULL",
-            "RAINFALL": "14.5",
-            "Feel Like": "17.8",
-            "WEATHER_ICON": "150-fill",
-            "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "55FE9ED6",
@@ -2126,10 +2014,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "21.8",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "55E6BB02",
@@ -2154,10 +2042,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "26.2",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "55E59AE0",
@@ -2182,10 +2070,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "23.2",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "55E5CA9C",
@@ -2210,10 +2098,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "26.3",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASDCO000",
@@ -2266,10 +2154,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "32.2",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASISS000",
@@ -2378,10 +2266,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "27.9",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASBKV000",
@@ -2406,10 +2294,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "35.2",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASDIH000",
@@ -2434,10 +2322,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "34.3",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASKHQ000",
@@ -2462,10 +2350,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "31.3",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASDHB000",
@@ -2490,10 +2378,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "29.7",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "55D3A716",
@@ -2518,10 +2406,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "29.9",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASKME000",
@@ -2546,10 +2434,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "27.1",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "55EDE604",
@@ -2574,10 +2462,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "30.8",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "55EDDD4C",
@@ -2714,10 +2602,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "2.5",
             "Feel Like": "24.4",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "55E453D6",
@@ -2742,10 +2630,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "22.8",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "55E440A0",
@@ -2770,10 +2658,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "31.5",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "MEUMT000",
@@ -2798,10 +2686,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "6.5",
             "Feel Like": "28.8",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "55C7163C",
@@ -2832,34 +2720,6 @@
             "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/fog.png"
         },
         {
-            "ID": "55C6BAEC",
-            "CALL_SIGN": null,
-            "DISTRICT": "KHOWAI",
-            "STATE": "TRIPURA",
-            "STATION": "TELIAMURA",
-            "DATE": "2026-03-31",
-            "TIME": "19:00:00",
-            "CURR_TEMP": "20.8",
-            "DEW_POINT_TEMP": null,
-            "RH": "100",
-            "WIND_DIRECTION": 0,
-            "WIND_SPEED": 0,
-            "MSLP": null,
-            "MIN_TEMP": "19.7",
-            "MAX_TEMP": "30.1",
-            "Latitude": "23.72",
-            "Longitude": "91.74",
-            "WEATHER_CODE": "0",
-            "NEBULOSITY": "0",
-            "RAINFALL_SEL": "NULL",
-            "RAINFALL": "5.0",
-            "Feel Like": "20.8",
-            "WEATHER_ICON": "150-fill",
-            "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
-        },
-        {
             "ID": "TRLAV000",
             "CALL_SIGN": null,
             "DISTRICT": "NORTH_TRIPURA",
@@ -2882,10 +2742,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "30.4",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "TRCIT000",
@@ -3078,10 +2938,10 @@
             "RAINFALL_SEL": "0.0",
             "RAINFALL": "0.0",
             "Feel Like": "22.1",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASBRB000",
@@ -3106,10 +2966,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "24.9",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASCAL000",
@@ -3134,10 +2994,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "25.8",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASUDI000",
@@ -3162,10 +3022,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "26.5",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "MRCNL000",
@@ -3190,10 +3050,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "27.6",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "MIMMZ000",
@@ -3218,10 +3078,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "32.2",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "SIMNB000",
@@ -3274,10 +3134,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "34.9",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "A0A36CDE",
@@ -3302,10 +3162,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "13.6",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "TRBGF000",
@@ -3330,10 +3190,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "37.1",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ARBSS000",
@@ -3358,10 +3218,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.5",
             "Feel Like": "21.3",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ARDDE000",
@@ -3386,10 +3246,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "19.2",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ARDET000",
@@ -3442,10 +3302,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "21.7",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ARDPO000",
@@ -3470,10 +3330,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "29.4",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ARKGK000",
@@ -3498,10 +3358,10 @@
             "RAINFALL_SEL": "0.0",
             "RAINFALL": "1.5",
             "Feel Like": "22.7",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ARLEK000",
@@ -3526,10 +3386,10 @@
             "RAINFALL_SEL": "0.0",
             "RAINFALL": "2.0",
             "Feel Like": "22.3",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ARLOD000",
@@ -3554,10 +3414,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "22.7",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ARNYA000",
@@ -3582,10 +3442,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "22.6",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ARPAC000",
@@ -3610,10 +3470,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "15.8",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ARPNG000",
@@ -3666,10 +3526,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "16.2",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "MEMWY000",
@@ -3694,10 +3554,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.2",
             "Feel Like": "19.7",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASGUV000",
@@ -3722,10 +3582,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "30.7",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "561926D2",
@@ -3750,10 +3610,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "19.5",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASAAU000",
@@ -3778,10 +3638,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "26.6",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ARMII000",
@@ -3890,10 +3750,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "19.7",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "561935A4",
@@ -3918,10 +3778,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "NULL",
             "Feel Like": "2.9",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "56194334",
@@ -3946,10 +3806,10 @@
             "RAINFALL_SEL": "0.2",
             "RAINFALL": "0.6",
             "Feel Like": "17.5",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ARYOM000",
@@ -4002,10 +3862,10 @@
             "RAINFALL_SEL": "0.0",
             "RAINFALL": "0.0",
             "Feel Like": "25.1",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASSOF000",
@@ -4030,10 +3890,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "1.0",
             "Feel Like": "5.7",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASCIR000",
@@ -4058,10 +3918,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "24.4",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASGRU000",
@@ -4086,10 +3946,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "28.1",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASSLH000",
@@ -4114,38 +3974,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "24.2",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
-        },
-        {
-            "ID": "ASAGO000",
-            "CALL_SIGN": null,
-            "DISTRICT": "DHUBRI",
-            "STATE": "ASSAM",
-            "STATION": "AGOMANI",
-            "DATE": "2026-03-31",
-            "TIME": "18:00:00",
-            "CURR_TEMP": "22.2",
-            "DEW_POINT_TEMP": null,
-            "RH": "99",
-            "WIND_DIRECTION": "110",
-            "WIND_SPEED": 1.9,
-            "MSLP": "1004.8",
-            "MIN_TEMP": "19.8",
-            "MAX_TEMP": "25.3",
-            "Latitude": "26.1969",
-            "Longitude": "89.7902",
-            "WEATHER_CODE": "61",
-            "NEBULOSITY": "0",
-            "RAINFALL_SEL": "1.0",
-            "RAINFALL": "7.0",
-            "Feel Like": "22.2",
-            "WEATHER_ICON": 305,
-            "WEATHER_MESSAGE": "Slight continuous rain",
-            "BACKGROUND": "rain.png",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/rain.png"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASBNC000",
@@ -4226,10 +4058,10 @@
             "RAINFALL_SEL": "0.0",
             "RAINFALL": "0.0",
             "Feel Like": "24.1",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASAGG000",
@@ -4254,10 +4086,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "24.8",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASBOQ000",
@@ -4282,38 +4114,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "32.5",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
-        },
-        {
-            "ID": "ASHIL000",
-            "CALL_SIGN": null,
-            "DISTRICT": "HAILAKANDI",
-            "STATE": "ASSAM",
-            "STATION": "ALGAPUR_CIRCLE",
-            "DATE": "2026-03-31",
-            "TIME": "18:00:00",
-            "CURR_TEMP": "24.9",
-            "DEW_POINT_TEMP": null,
-            "RH": "100",
-            "WIND_DIRECTION": 0,
-            "WIND_SPEED": 0,
-            "MSLP": "1008.8",
-            "MIN_TEMP": "22.1",
-            "MAX_TEMP": "28.7",
-            "Latitude": "24.7543",
-            "Longitude": "92.5947",
-            "WEATHER_CODE": "0",
-            "NEBULOSITY": "0",
-            "RAINFALL_SEL": "NULL",
-            "RAINFALL": "0.0",
-            "Feel Like": "24.9",
-            "WEATHER_ICON": "150-fill",
-            "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASPNC000",
@@ -4338,10 +4142,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "25.4",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASMRY000",
@@ -4366,10 +4170,10 @@
             "RAINFALL_SEL": "0.0",
             "RAINFALL": "0.0",
             "Feel Like": "22.9",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASBOO000",
@@ -4394,10 +4198,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "26.2",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASCAD000",
@@ -4422,10 +4226,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "20.0",
             "Feel Like": "25.5",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASDTU000",
@@ -4450,10 +4254,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "26.6",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASVCB000",
@@ -4478,10 +4282,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "6.0",
             "Feel Like": "20.9",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASHBA000",
@@ -4506,10 +4310,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "28.9",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASUML000",
@@ -4534,10 +4338,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "28.3",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASUMP000",
@@ -4562,10 +4366,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "29.8",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASDUC000",
@@ -4590,10 +4394,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "24.9",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASSLA000",
@@ -4618,10 +4422,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "25.5",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASBTB000",
@@ -4646,10 +4450,10 @@
             "RAINFALL_SEL": "0.0",
             "RAINFALL": "0.0",
             "Feel Like": "23.9",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASMJU000",
@@ -4674,10 +4478,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "33.6",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASSAF000",
@@ -4702,10 +4506,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "32.2",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASNLB000",
@@ -4730,10 +4534,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "25.5",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASSBP000",
@@ -4758,10 +4562,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "33.7",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASDHK000",
@@ -4786,10 +4590,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "4.0",
             "Feel Like": "23.5",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASGHM000",
@@ -4814,10 +4618,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "28.9",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASNWI000",
@@ -4842,10 +4646,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "29.9",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASMRE000",
@@ -4898,10 +4702,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "3.0",
             "Feel Like": "21.5",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASRUP000",
@@ -4926,10 +4730,10 @@
             "RAINFALL_SEL": "0.0",
             "RAINFALL": "1.0",
             "Feel Like": "22.2",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "ASROW000",
@@ -4954,10 +4758,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "29.3",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "NAKIH000",
@@ -4982,10 +4786,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "22.1",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "NAJLU000",
@@ -5010,10 +4814,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "33.1",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         },
         {
             "ID": "NAWOK000",
@@ -5038,10 +4842,10 @@
             "RAINFALL_SEL": "NULL",
             "RAINFALL": "0.0",
             "Feel Like": "22.5",
-            "WEATHER_ICON": "150-fill",
+            "WEATHER_ICON": "100-fill",
             "WEATHER_MESSAGE": "Clear Sky",
-            "BACKGROUND": "clear_N.gif",
-            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear_N.gif"
+            "BACKGROUND": "clear.gif",
+            "BACKGROUND_URL": "https://mausam.imd.gov.in/img/bg/clear.gif"
         }
     ]
 }
