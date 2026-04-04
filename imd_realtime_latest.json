@@ -1,6 +1,6 @@
 {
     "source": "IMD AWS/ARG",
-    "generated_at": "2026-04-04 12:07 UTC",
+    "generated_at": "2026-04-04 12:12 UTC",
     "station_count": 226,
     "data": [
         {
@@ -15,7 +15,7 @@
             "MSLP": null,
             "Latitude": "27.7987",
             "Longitude": "95.9099",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.5",
             "Feel Like": "20.4",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -32,7 +32,7 @@
             "MSLP": "993.6",
             "Latitude": "28.2598",
             "Longitude": "97.0716",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "19.2",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -66,7 +66,7 @@
             "MSLP": null,
             "Latitude": "27.9263",
             "Longitude": "93.1628",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "1.0",
             "Feel Like": "16.6",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -83,7 +83,7 @@
             "MSLP": null,
             "Latitude": "27.0243",
             "Longitude": "95.1844",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "1.0",
             "Feel Like": "23.2",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -100,7 +100,7 @@
             "MSLP": null,
             "Latitude": "27.1919",
             "Longitude": "95.4636",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "9.0",
             "Feel Like": "22.5",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -117,7 +117,7 @@
             "MSLP": null,
             "Latitude": "27.2645",
             "Longitude": "92.4159",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.5",
             "Feel Like": "13.8",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -134,7 +134,7 @@
             "MSLP": null,
             "Latitude": "27.1042",
             "Longitude": "92.1205",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "18.6",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -151,7 +151,7 @@
             "MSLP": "1009.9",
             "Latitude": "28.2028",
             "Longitude": "94.8025",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "23.9",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -168,7 +168,7 @@
             "MSLP": "1003.8",
             "Latitude": "26.5847",
             "Longitude": "91.9167",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "1.0",
             "Feel Like": "24.2",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -185,7 +185,7 @@
             "MSLP": null,
             "Latitude": "26.4689",
             "Longitude": "90.9",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "29.9",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -202,7 +202,7 @@
             "MSLP": "1006.6",
             "Latitude": "26.35",
             "Longitude": "90.65",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "34.6",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -219,7 +219,7 @@
             "MSLP": "1002.4",
             "Latitude": "26.4328",
             "Longitude": "92.0283",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.5",
             "Feel Like": "25",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -236,7 +236,7 @@
             "MSLP": "1006.2",
             "Latitude": "27.4705",
             "Longitude": "94.9125",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "2.0",
             "Feel Like": "21.9",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -253,7 +253,7 @@
             "MSLP": "1003.3",
             "Latitude": "25.1764",
             "Longitude": "93.0133",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "24.3",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -270,7 +270,7 @@
             "MSLP": "1004.3",
             "Latitude": "25.6657",
             "Longitude": "92.7825",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "31.4",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -287,7 +287,7 @@
             "MSLP": "1003.3",
             "Latitude": "26.1",
             "Longitude": "91.5667",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "30.9",
             "WEATHER_MESSAGE": "Hazy"
@@ -321,7 +321,7 @@
             "MSLP": "1004.7",
             "Latitude": "25.8742",
             "Longitude": "93.4472",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "29.7",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -338,7 +338,7 @@
             "MSLP": "1002.5",
             "Latitude": "26.2394",
             "Longitude": "92.2939",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "32.3",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -355,7 +355,7 @@
             "MSLP": null,
             "Latitude": "26.2719",
             "Longitude": "92.5236",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "45.5",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -372,7 +372,7 @@
             "MSLP": null,
             "Latitude": "26.7322",
             "Longitude": "92.0939",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "23.7",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -389,7 +389,7 @@
             "MSLP": "1017.1",
             "Latitude": "24.8765",
             "Longitude": "92.1205",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "1.5",
             "Feel Like": "32.7",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -406,7 +406,7 @@
             "MSLP": "1001.2",
             "Latitude": "24.207",
             "Longitude": "93.9039",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "29.7",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -423,7 +423,7 @@
             "MSLP": null,
             "Latitude": "24.2591",
             "Longitude": "93.6697",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "28",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -440,7 +440,7 @@
             "MSLP": "1004.4",
             "Latitude": "24.7864",
             "Longitude": "93.1539",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "37.6",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -457,7 +457,7 @@
             "MSLP": "1005.0",
             "Latitude": "24.8067",
             "Longitude": "93.9603",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "26.6",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -474,7 +474,7 @@
             "MSLP": "986.7",
             "Latitude": "24.8267",
             "Longitude": "93.9244",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "25.7",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -491,7 +491,7 @@
             "MSLP": null,
             "Latitude": "24.855",
             "Longitude": "94.5097",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "4.5",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -508,7 +508,7 @@
             "MSLP": null,
             "Latitude": "25.0626",
             "Longitude": "94.0251",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "26.9",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -542,7 +542,7 @@
             "MSLP": "1003.7",
             "Latitude": "24.8547",
             "Longitude": "93.6167",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "26.2",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -576,7 +576,7 @@
             "MSLP": "1008.0",
             "Latitude": "25.5094",
             "Longitude": "90.5989",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "30.4",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -593,7 +593,7 @@
             "MSLP": null,
             "Latitude": "25.5658",
             "Longitude": "91.8597",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "21.8",
             "WEATHER_MESSAGE": "Hazy"
@@ -610,7 +610,7 @@
             "MSLP": null,
             "Latitude": "25.4544",
             "Longitude": "92.2069",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "20.7",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -627,7 +627,7 @@
             "MSLP": "1003.1",
             "Latitude": "25.8907",
             "Longitude": "90.6135",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "43.5",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -644,7 +644,7 @@
             "MSLP": "1006.6",
             "Latitude": "25.2083",
             "Longitude": "90.6425",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.5",
             "Feel Like": "26.4",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -661,7 +661,7 @@
             "MSLP": "1002.0",
             "Latitude": "25.4616",
             "Longitude": "89.9258",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "31.3",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -678,7 +678,7 @@
             "MSLP": null,
             "Latitude": "25.3706",
             "Longitude": "91.4765",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "18.8",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -695,7 +695,7 @@
             "MSLP": "1005.8",
             "Latitude": "25.495",
             "Longitude": "90.2094",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "30.1",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -729,7 +729,7 @@
             "MSLP": null,
             "Latitude": "23.7371",
             "Longitude": "92.6518",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "28",
             "WEATHER_MESSAGE": "Hazy"
@@ -763,7 +763,7 @@
             "MSLP": null,
             "Latitude": "22.9522",
             "Longitude": "92.9328",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "27.7",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -780,7 +780,7 @@
             "MSLP": "982.3",
             "Latitude": "23.5266",
             "Longitude": "93.1789",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "22.9",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -797,7 +797,7 @@
             "MSLP": "1003.5",
             "Latitude": "24.208",
             "Longitude": "92.6757",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "26",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -814,7 +814,7 @@
             "MSLP": null,
             "Latitude": "22.5055",
             "Longitude": "92.8949",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "26",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -831,7 +831,7 @@
             "MSLP": "949.0",
             "Latitude": "22.4949",
             "Longitude": "92.9988",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "26.3",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -848,7 +848,7 @@
             "MSLP": null,
             "Latitude": "24.3425",
             "Longitude": "92.8463",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "0",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -865,7 +865,7 @@
             "MSLP": "1005.7",
             "Latitude": "26.8",
             "Longitude": "94.7",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "31.6",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -882,7 +882,7 @@
             "MSLP": null,
             "Latitude": "25.65",
             "Longitude": "94.1167",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "21.8",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -899,7 +899,7 @@
             "MSLP": null,
             "Latitude": "26.4153",
             "Longitude": "94.8794",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "22.4",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -916,7 +916,7 @@
             "MSLP": null,
             "Latitude": "25.9888",
             "Longitude": "94.9058",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "20.5",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -933,7 +933,7 @@
             "MSLP": "851.9",
             "Latitude": "27.33",
             "Longitude": "88.6167",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "0",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -967,7 +967,7 @@
             "MSLP": null,
             "Latitude": "27.1642",
             "Longitude": "88.3964",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "20.1",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -984,7 +984,7 @@
             "MSLP": "1002.8",
             "Latitude": "23.5945",
             "Longitude": "91.8243",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "32.6",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1001,7 +1001,7 @@
             "MSLP": null,
             "Latitude": "24.0669",
             "Longitude": "91.6142",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "41.8",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1018,7 +1018,7 @@
             "MSLP": "1003.9",
             "Latitude": "23.8627",
             "Longitude": "92.207",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "43.1",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1035,7 +1035,7 @@
             "MSLP": null,
             "Latitude": "24.1867",
             "Longitude": "91.8278",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "29.9",
             "WEATHER_MESSAGE": "Hazy"
@@ -1052,7 +1052,7 @@
             "MSLP": "1005.1",
             "Latitude": "23.6077",
             "Longitude": "91.3456",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.5",
             "Feel Like": "33.8",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1069,7 +1069,7 @@
             "MSLP": "1006.7",
             "Latitude": "23.53",
             "Longitude": "91.4617",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "37.4",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1086,7 +1086,7 @@
             "MSLP": "1004.0",
             "Latitude": "23.0114",
             "Longitude": "91.7208",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "3.0",
             "Feel Like": "26.9",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1103,7 +1103,7 @@
             "MSLP": "1004.9",
             "Latitude": "24.3096",
             "Longitude": "92.0069",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "38.1",
             "WEATHER_MESSAGE": "Hazy"
@@ -1120,7 +1120,7 @@
             "MSLP": "948.3",
             "Latitude": "23.8089",
             "Longitude": "91.2731",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "37.1",
             "WEATHER_MESSAGE": "Hazy"
@@ -1137,7 +1137,7 @@
             "MSLP": "1005.8",
             "Latitude": "23.8902",
             "Longitude": "91.244",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "30.4",
             "WEATHER_MESSAGE": "Hazy"
@@ -1154,7 +1154,7 @@
             "MSLP": null,
             "Latitude": "27.8989",
             "Longitude": "93.352",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "19.5",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1171,7 +1171,7 @@
             "MSLP": null,
             "Latitude": "27.46",
             "Longitude": "93.7669",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1188,7 +1188,7 @@
             "MSLP": null,
             "Latitude": "27.575",
             "Longitude": "91.985",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1205,7 +1205,7 @@
             "MSLP": null,
             "Latitude": "26.8869",
             "Longitude": "95.3219",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "2.0",
             "Feel Like": "20.4",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1222,7 +1222,7 @@
             "MSLP": null,
             "Latitude": "28.64",
             "Longitude": "95.0228",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "24.4",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1239,7 +1239,7 @@
             "MSLP": null,
             "Latitude": "27.36",
             "Longitude": "92.2439",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "21.4",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1256,7 +1256,7 @@
             "MSLP": null,
             "Latitude": "26.6",
             "Longitude": "91.59",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1273,7 +1273,7 @@
             "MSLP": null,
             "Latitude": "26.32",
             "Longitude": "91",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1290,7 +1290,7 @@
             "MSLP": null,
             "Latitude": "26.47",
             "Longitude": "90.8",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "38.6",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1307,7 +1307,7 @@
             "MSLP": null,
             "Latitude": "26.38",
             "Longitude": "90.7",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1324,7 +1324,7 @@
             "MSLP": null,
             "Latitude": "24.6",
             "Longitude": "92.95",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Hazy"
@@ -1341,7 +1341,7 @@
             "MSLP": null,
             "Latitude": "24.79",
             "Longitude": "93",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Hazy"
@@ -1358,7 +1358,7 @@
             "MSLP": null,
             "Latitude": "26.5689",
             "Longitude": "92.1958",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "26.3",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1375,7 +1375,7 @@
             "MSLP": null,
             "Latitude": "26.42",
             "Longitude": "91.89",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1392,7 +1392,7 @@
             "MSLP": null,
             "Latitude": "27.3868",
             "Longitude": "94.8749",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "0",
             "WEATHER_MESSAGE": "Raining Intermittently"
@@ -1409,7 +1409,7 @@
             "MSLP": null,
             "Latitude": "27.4667",
             "Longitude": "94.9116",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "2.0",
             "Feel Like": "22.5",
             "WEATHER_MESSAGE": "Raining Intermittently"
@@ -1426,7 +1426,7 @@
             "MSLP": null,
             "Latitude": "27.434",
             "Longitude": "94.9271",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Raining Intermittently"
@@ -1443,7 +1443,7 @@
             "MSLP": null,
             "Latitude": "27.4686",
             "Longitude": "94.9883",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.5",
             "Feel Like": "0",
             "WEATHER_MESSAGE": "Raining Intermittently"
@@ -1460,7 +1460,7 @@
             "MSLP": null,
             "Latitude": "27.29",
             "Longitude": "95.3",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1477,7 +1477,7 @@
             "MSLP": null,
             "Latitude": "27.4972",
             "Longitude": "94.93",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "1.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Raining Intermittently"
@@ -1494,7 +1494,7 @@
             "MSLP": null,
             "Latitude": "25.51",
             "Longitude": "92.73",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1511,7 +1511,7 @@
             "MSLP": null,
             "Latitude": "25.96",
             "Longitude": "91.05",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1528,7 +1528,7 @@
             "MSLP": null,
             "Latitude": "25.98",
             "Longitude": "90.78",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1545,7 +1545,7 @@
             "MSLP": null,
             "Latitude": "26.36",
             "Longitude": "93.66",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.5",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1562,7 +1562,7 @@
             "MSLP": null,
             "Latitude": "24.56",
             "Longitude": "92.61",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1579,7 +1579,7 @@
             "MSLP": null,
             "Latitude": "24.65",
             "Longitude": "92.6",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Hazy"
@@ -1596,7 +1596,7 @@
             "MSLP": null,
             "Latitude": "25.75",
             "Longitude": "93.1779",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "31.7",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1613,7 +1613,7 @@
             "MSLP": null,
             "Latitude": "26.83",
             "Longitude": "94.41",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "2.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1630,7 +1630,7 @@
             "MSLP": null,
             "Latitude": "26.2556",
             "Longitude": "91.5645",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.5",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Hazy"
@@ -1647,7 +1647,7 @@
             "MSLP": null,
             "Latitude": "26.1699",
             "Longitude": "91.565",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Hazy"
@@ -1664,7 +1664,7 @@
             "MSLP": null,
             "Latitude": "26.235",
             "Longitude": "91.9378",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "9.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1681,7 +1681,7 @@
             "MSLP": null,
             "Latitude": "26.11",
             "Longitude": "91.76",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Hazy"
@@ -1698,7 +1698,7 @@
             "MSLP": null,
             "Latitude": "26.1516",
             "Longitude": "91.7938",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Hazy"
@@ -1715,7 +1715,7 @@
             "MSLP": null,
             "Latitude": "26.1111",
             "Longitude": "91.6864",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "29.2",
             "WEATHER_MESSAGE": "Hazy"
@@ -1732,7 +1732,7 @@
             "MSLP": null,
             "Latitude": "26.1944",
             "Longitude": "91.6924",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Hazy"
@@ -1749,7 +1749,7 @@
             "MSLP": null,
             "Latitude": "26.1313",
             "Longitude": "91.8237",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.5",
             "Feel Like": "29.7",
             "WEATHER_MESSAGE": "Hazy"
@@ -1766,7 +1766,7 @@
             "MSLP": null,
             "Latitude": "26.1036",
             "Longitude": "91.5896",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "31.7",
             "WEATHER_MESSAGE": "Hazy"
@@ -1783,7 +1783,7 @@
             "MSLP": null,
             "Latitude": "0",
             "Longitude": "0",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1800,7 +1800,7 @@
             "MSLP": null,
             "Latitude": "26.1171",
             "Longitude": "91.7605",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Hazy"
@@ -1817,7 +1817,7 @@
             "MSLP": null,
             "Latitude": "26.1204",
             "Longitude": "91.9489",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "28.1",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1834,7 +1834,7 @@
             "MSLP": null,
             "Latitude": "26.1",
             "Longitude": "93.78",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1851,7 +1851,7 @@
             "MSLP": null,
             "Latitude": "25.81",
             "Longitude": "93.6",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.5",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1868,7 +1868,7 @@
             "MSLP": null,
             "Latitude": "26.0545",
             "Longitude": "93.2009",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "35.5",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1885,7 +1885,7 @@
             "MSLP": null,
             "Latitude": "25.8363",
             "Longitude": "93.4348",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "32.2",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1902,7 +1902,7 @@
             "MSLP": null,
             "Latitude": "25.8495",
             "Longitude": "92.8816",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "31.1",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1953,7 +1953,7 @@
             "MSLP": null,
             "Latitude": "27.7333",
             "Longitude": "94.4",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1970,7 +1970,7 @@
             "MSLP": null,
             "Latitude": "26.1689",
             "Longitude": "92.3569",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "31.7",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -1987,7 +1987,7 @@
             "MSLP": null,
             "Latitude": "26.42",
             "Longitude": "92.33",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "1.0",
             "Feel Like": "28.7",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2004,7 +2004,7 @@
             "MSLP": null,
             "Latitude": "26.25",
             "Longitude": "92.36",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2021,7 +2021,7 @@
             "MSLP": null,
             "Latitude": "26.1625",
             "Longitude": "92.6646",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "26.5",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2038,7 +2038,7 @@
             "MSLP": null,
             "Latitude": "25.92",
             "Longitude": "92.95",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2072,7 +2072,7 @@
             "MSLP": null,
             "Latitude": "26.4",
             "Longitude": "91.1339",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "32.4",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2106,7 +2106,7 @@
             "MSLP": null,
             "Latitude": "27.03",
             "Longitude": "95.0167",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "3.5",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2123,7 +2123,7 @@
             "MSLP": null,
             "Latitude": "26.7089",
             "Longitude": "92.4469",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2140,7 +2140,7 @@
             "MSLP": null,
             "Latitude": "26.6589",
             "Longitude": "91.91",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2157,7 +2157,7 @@
             "MSLP": null,
             "Latitude": "24.86",
             "Longitude": "93.97",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2174,7 +2174,7 @@
             "MSLP": null,
             "Latitude": "24.81",
             "Longitude": "94",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2191,7 +2191,7 @@
             "MSLP": null,
             "Latitude": "24.82",
             "Longitude": "93.85",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2208,7 +2208,7 @@
             "MSLP": null,
             "Latitude": "24.67",
             "Longitude": "93.89",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2225,7 +2225,7 @@
             "MSLP": null,
             "Latitude": "25.5631",
             "Longitude": "91.8742",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "22.2",
             "WEATHER_MESSAGE": "Hazy"
@@ -2242,7 +2242,7 @@
             "MSLP": null,
             "Latitude": "25.5514",
             "Longitude": "92.0501",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.5",
             "Feel Like": "22.3",
             "WEATHER_MESSAGE": "Hazy"
@@ -2259,7 +2259,7 @@
             "MSLP": null,
             "Latitude": "25.6083",
             "Longitude": "91.8919",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "21.2",
             "WEATHER_MESSAGE": "Hazy"
@@ -2276,7 +2276,7 @@
             "MSLP": null,
             "Latitude": "25.55",
             "Longitude": "91.62",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "19.9",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2293,7 +2293,7 @@
             "MSLP": null,
             "Latitude": "25.89",
             "Longitude": "90.6",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2310,7 +2310,7 @@
             "MSLP": null,
             "Latitude": "26.08",
             "Longitude": "91.88",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "32",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2327,7 +2327,7 @@
             "MSLP": null,
             "Latitude": "26.0072",
             "Longitude": "91.8118",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "29.1",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2344,7 +2344,7 @@
             "MSLP": null,
             "Latitude": "25.2",
             "Longitude": "90.32",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2361,7 +2361,7 @@
             "MSLP": null,
             "Latitude": "25.19",
             "Longitude": "90.78",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2378,7 +2378,7 @@
             "MSLP": null,
             "Latitude": "22.62",
             "Longitude": "92.63",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2395,7 +2395,7 @@
             "MSLP": null,
             "Latitude": "23.2",
             "Longitude": "93.08",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2412,7 +2412,7 @@
             "MSLP": null,
             "Latitude": "25.81",
             "Longitude": "93.75",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2429,7 +2429,7 @@
             "MSLP": null,
             "Latitude": "25.81",
             "Longitude": "94.84",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2446,7 +2446,7 @@
             "MSLP": null,
             "Latitude": "25.72",
             "Longitude": "94.09",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2463,7 +2463,7 @@
             "MSLP": null,
             "Latitude": "25.42",
             "Longitude": "94.43",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2480,7 +2480,7 @@
             "MSLP": null,
             "Latitude": "25.68",
             "Longitude": "94.63",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2497,7 +2497,7 @@
             "MSLP": null,
             "Latitude": "25.92",
             "Longitude": "94.22",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2514,7 +2514,7 @@
             "MSLP": null,
             "Latitude": "27.16",
             "Longitude": "88.47",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2531,7 +2531,7 @@
             "MSLP": null,
             "Latitude": "27.29",
             "Longitude": "88.35",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2548,7 +2548,7 @@
             "MSLP": null,
             "Latitude": "27.19",
             "Longitude": "88.16",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "17.6",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2565,7 +2565,7 @@
             "MSLP": null,
             "Latitude": "27.36",
             "Longitude": "88.21",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2582,7 +2582,7 @@
             "MSLP": null,
             "Latitude": "23.51",
             "Longitude": "91.66",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2599,7 +2599,7 @@
             "MSLP": null,
             "Latitude": "24.0065",
             "Longitude": "92.2819",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "32.3",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2616,7 +2616,7 @@
             "MSLP": null,
             "Latitude": "24.44",
             "Longitude": "92.2333",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2633,7 +2633,7 @@
             "MSLP": null,
             "Latitude": "23.7413",
             "Longitude": "91.2728",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "31.1",
             "WEATHER_MESSAGE": "Hazy"
@@ -2650,7 +2650,7 @@
             "MSLP": null,
             "Latitude": "23.4844",
             "Longitude": "91.27",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2667,7 +2667,7 @@
             "MSLP": null,
             "Latitude": "23.24",
             "Longitude": "91.47",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2684,7 +2684,7 @@
             "MSLP": null,
             "Latitude": "24.17",
             "Longitude": "92.1",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Hazy"
@@ -2701,7 +2701,7 @@
             "MSLP": null,
             "Latitude": "23.8904",
             "Longitude": "91.2441",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "41.4",
             "WEATHER_MESSAGE": "Hazy"
@@ -2718,7 +2718,7 @@
             "MSLP": null,
             "Latitude": "23.95",
             "Longitude": "91.2588",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "31.1",
             "WEATHER_MESSAGE": "Hazy"
@@ -2735,7 +2735,7 @@
             "MSLP": null,
             "Latitude": "23.8139",
             "Longitude": "91.3274",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "30.8",
             "WEATHER_MESSAGE": "Hazy"
@@ -2752,7 +2752,7 @@
             "MSLP": null,
             "Latitude": "23.7978",
             "Longitude": "91.4338",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "29.8",
             "WEATHER_MESSAGE": "Hazy"
@@ -2769,7 +2769,7 @@
             "MSLP": null,
             "Latitude": "23.9134",
             "Longitude": "91.3201",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Hazy"
@@ -2786,7 +2786,7 @@
             "MSLP": null,
             "Latitude": "23.8643",
             "Longitude": "91.2916",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "31.9",
             "WEATHER_MESSAGE": "Hazy"
@@ -2803,7 +2803,7 @@
             "MSLP": null,
             "Latitude": "26.4421",
             "Longitude": "90.9824",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "34.6",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2820,7 +2820,7 @@
             "MSLP": null,
             "Latitude": "24.8559",
             "Longitude": "92.7407",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "28.8",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2837,7 +2837,7 @@
             "MSLP": null,
             "Latitude": "26.6531",
             "Longitude": "92.1803",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "26.3",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2854,7 +2854,7 @@
             "MSLP": null,
             "Latitude": "24.3265",
             "Longitude": "94.0224",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.5",
             "Feel Like": "26.9",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2871,7 +2871,7 @@
             "MSLP": null,
             "Latitude": "23.8381",
             "Longitude": "92.6357",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "31.7",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2888,7 +2888,7 @@
             "MSLP": null,
             "Latitude": "27.298",
             "Longitude": "88.2431",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "19.1",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2905,7 +2905,7 @@
             "MSLP": null,
             "Latitude": "24.0449",
             "Longitude": "91.8278",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "36.2",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2922,7 +2922,7 @@
             "MSLP": null,
             "Latitude": "28.7928",
             "Longitude": "95.8956",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "2.0",
             "Feel Like": "16.9",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2939,7 +2939,7 @@
             "MSLP": "1002.6",
             "Latitude": "23.3123",
             "Longitude": "91.5516",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "41.6",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2956,7 +2956,7 @@
             "MSLP": "998.5",
             "Latitude": "27.995",
             "Longitude": "94.704",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "20.5",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2990,7 +2990,7 @@
             "MSLP": "1000.6",
             "Latitude": "27.076",
             "Longitude": "93.6043",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "23.1",
             "WEATHER_MESSAGE": "Mist"
@@ -3007,7 +3007,7 @@
             "MSLP": null,
             "Latitude": "27.3813",
             "Longitude": "92.2319",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "19",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3024,7 +3024,7 @@
             "MSLP": "1002.8",
             "Latitude": "27.9883",
             "Longitude": "94.22",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.5",
             "Feel Like": "24.9",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3041,7 +3041,7 @@
             "MSLP": "1005.7",
             "Latitude": "27.6386",
             "Longitude": "95.81",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.5",
             "Feel Like": "20.4",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3058,7 +3058,7 @@
             "MSLP": null,
             "Latitude": "26.8863",
             "Longitude": "95.3257",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "2.5",
             "Feel Like": "21.3",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3075,7 +3075,7 @@
             "MSLP": null,
             "Latitude": "27.7505",
             "Longitude": "93.3989",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "18.6",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3092,7 +3092,7 @@
             "MSLP": "1003.7",
             "Latitude": "28.2162",
             "Longitude": "94.9955",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "22.9",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3109,7 +3109,7 @@
             "MSLP": null,
             "Latitude": "27.5298",
             "Longitude": "93.8385",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "5.0",
             "Feel Like": "15.3",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3126,7 +3126,7 @@
             "MSLP": null,
             "Latitude": "25.2866",
             "Longitude": "91.5764",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.2",
             "Feel Like": "18.8",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3143,7 +3143,7 @@
             "MSLP": "1005.5",
             "Latitude": "26.1521",
             "Longitude": "91.6566",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "33",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3160,7 +3160,7 @@
             "MSLP": "1005.8",
             "Latitude": "29.0004",
             "Longitude": "94.8882",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "20.9",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3177,7 +3177,7 @@
             "MSLP": null,
             "Latitude": "26.103",
             "Longitude": "91.611",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "32.7",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3211,7 +3211,7 @@
             "MSLP": "1003.6",
             "Latitude": "27.3178",
             "Longitude": "93.0042",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "26.3",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3228,7 +3228,7 @@
             "MSLP": "1009.1",
             "Latitude": "28.0695",
             "Longitude": "95.3323",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "25.4",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3245,7 +3245,7 @@
             "MSLP": "897.4",
             "Latitude": "27.7923",
             "Longitude": "94.0753",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "1.0",
             "Feel Like": "19",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3262,7 +3262,7 @@
             "MSLP": null,
             "Latitude": "28.7594",
             "Longitude": "93.9585",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "NULL",
             "Feel Like": "2.4",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3279,7 +3279,7 @@
             "MSLP": "979.2",
             "Latitude": "28.1297",
             "Longitude": "94.5716",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "21.4",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3313,7 +3313,7 @@
             "MSLP": "1002.7",
             "Latitude": "27.0309",
             "Longitude": "95.0531",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "3.5",
             "Feel Like": "13.1",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3330,7 +3330,7 @@
             "MSLP": "1004.1",
             "Latitude": "26.5296",
             "Longitude": "90.5018",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "35.7",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3347,7 +3347,7 @@
             "MSLP": "1003.3",
             "Latitude": "26.3184",
             "Longitude": "91.8986",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "28.7",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3364,7 +3364,7 @@
             "MSLP": "1002.9",
             "Latitude": "27.6071",
             "Longitude": "94.7327",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "23.9",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3398,7 +3398,7 @@
             "MSLP": "1004.3",
             "Latitude": "25.191",
             "Longitude": "93.0181",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "26.5",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3415,7 +3415,7 @@
             "MSLP": "1010.8",
             "Latitude": "26.0962",
             "Longitude": "90.5666",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "36.7",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3432,7 +3432,7 @@
             "MSLP": "1009.0",
             "Latitude": "26.639",
             "Longitude": "93.592",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "25.3",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3449,7 +3449,7 @@
             "MSLP": "1002.3",
             "Latitude": "24.7543",
             "Longitude": "92.5947",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "35",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3466,7 +3466,7 @@
             "MSLP": "1003.8",
             "Latitude": "24.8663",
             "Longitude": "92.5938",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "33.9",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3500,7 +3500,7 @@
             "MSLP": "1010.5",
             "Latitude": "26.1926",
             "Longitude": "91.6736",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": null,
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3517,7 +3517,7 @@
             "MSLP": "1012.9",
             "Latitude": "26.0159",
             "Longitude": "91.1833",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "34.2",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3534,7 +3534,7 @@
             "MSLP": null,
             "Latitude": "26.2036",
             "Longitude": "91.8654",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "30.2",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3551,7 +3551,7 @@
             "MSLP": null,
             "Latitude": "26.00194",
             "Longitude": "91.547729",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "36.4",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3568,7 +3568,7 @@
             "MSLP": "934.9",
             "Latitude": "25.7152",
             "Longitude": "92.2087",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "25.4",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3585,7 +3585,7 @@
             "MSLP": null,
             "Latitude": "25.796",
             "Longitude": "92.2356",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "24.4",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3602,7 +3602,7 @@
             "MSLP": "1003.4",
             "Latitude": "25.9407",
             "Longitude": "92.2993",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "25.7",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3619,7 +3619,7 @@
             "MSLP": "1009.6",
             "Latitude": "26.4407",
             "Longitude": "90.368",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "36.2",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3636,7 +3636,7 @@
             "MSLP": "1003.0",
             "Latitude": "27.2808",
             "Longitude": "94.1103",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "24.4",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3653,7 +3653,7 @@
             "MSLP": "1004.4",
             "Latitude": "26.9778",
             "Longitude": "94.1445",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "3.0",
             "Feel Like": "23",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3670,7 +3670,7 @@
             "MSLP": "1009.6",
             "Latitude": "26.4055",
             "Longitude": "92.843",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "29.2",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3687,7 +3687,7 @@
             "MSLP": "1004.5",
             "Latitude": "26.4707",
             "Longitude": "91.4285",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "28.4",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3738,7 +3738,7 @@
             "MSLP": "1010.4",
             "Latitude": "26.7622",
             "Longitude": "92.7604",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "25.4",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3755,7 +3755,7 @@
             "MSLP": "1005.8",
             "Latitude": "26.6405",
             "Longitude": "92.817",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "2.5",
             "Feel Like": "25.4",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3772,7 +3772,7 @@
             "MSLP": "1001.1",
             "Latitude": "27.2954",
             "Longitude": "95.6564",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "6.5",
             "Feel Like": "22",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3789,7 +3789,7 @@
             "MSLP": "999.0",
             "Latitude": "26.7224",
             "Longitude": "92.1909",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "1.0",
             "Feel Like": "26.5",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3806,7 +3806,7 @@
             "MSLP": "924.5",
             "Latitude": "25.8833",
             "Longitude": "94.7833",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "25.3",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3823,7 +3823,7 @@
             "MSLP": "1006.6",
             "Latitude": "25.6534",
             "Longitude": "93.6669",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.0",
             "Feel Like": "26.3",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -3840,7 +3840,7 @@
             "MSLP": "1072.6",
             "Latitude": "26.0852",
             "Longitude": "94.255",
-            "RAINFALL_SEL": "NULL",
+            "RAINFALL_SEL": "0",
             "RAINFALL": "0.5",
             "Feel Like": "21.9",
             "WEATHER_MESSAGE": "Clear Weather"
