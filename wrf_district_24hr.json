@@ -1,13 +1,13 @@
 {
     "Source": "WRF NESAC",
-    "Model Run": "02 Apr 05:30 IST",
-    "Valid (Today)": "02 Apr 05:30 – 03 Apr 05:30",
-    "Valid (Tomorrow)": "03 Apr 05:30 – 04 Apr 05:30",
+    "Model Run": "04 Apr 05:30 IST",
+    "Valid (Today)": "04 Apr 05:30 – 05 Apr 05:30",
+    "Valid (Tomorrow)": "05 Apr 05:30 – 06 Apr 05:30",
     "data": [
         {
             "district": "Baksa",
-            "Rain Today": 0.97,
-            "Rain Tomorrow": 0.0
+            "Rain Today": 0.08,
+            "Rain Tomorrow": 0.1
         },
         {
             "district": "Barpeta",
@@ -16,8 +16,8 @@
         },
         {
             "district": "Biswanath",
-            "Rain Today": 2.04,
-            "Rain Tomorrow": 0.0
+            "Rain Today": 1.79,
+            "Rain Tomorrow": 0.02
         },
         {
             "district": "Bongaigaon",
@@ -26,48 +26,48 @@
         },
         {
             "district": "Cachar",
-            "Rain Today": 0.47,
-            "Rain Tomorrow": 0.0
+            "Rain Today": 0.26,
+            "Rain Tomorrow": 3.27
         },
         {
             "district": "Charaideo",
-            "Rain Today": 1.78,
-            "Rain Tomorrow": 0.0
+            "Rain Today": 6.5,
+            "Rain Tomorrow": 0.33
         },
         {
             "district": "Chirang",
-            "Rain Today": 0.0,
-            "Rain Tomorrow": 0.0
+            "Rain Today": 0.15,
+            "Rain Tomorrow": 0.01
         },
         {
             "district": "Darrang",
-            "Rain Today": 0.46,
+            "Rain Today": 0.0,
             "Rain Tomorrow": 0.0
         },
         {
             "district": "Dhemaji",
-            "Rain Today": 0.78,
-            "Rain Tomorrow": 0.02
+            "Rain Today": 1.71,
+            "Rain Tomorrow": 6.93
         },
         {
             "district": "Dhubri",
             "Rain Today": 0.0,
-            "Rain Tomorrow": 0.0
+            "Rain Tomorrow": 0.01
         },
         {
             "district": "Dibrugarh",
-            "Rain Today": 0.48,
-            "Rain Tomorrow": 0.0
+            "Rain Today": 2.06,
+            "Rain Tomorrow": 1.6
         },
         {
             "district": "Dima Hasao",
-            "Rain Today": 2.8,
-            "Rain Tomorrow": 0.0
+            "Rain Today": 0.65,
+            "Rain Tomorrow": 0.66
         },
         {
             "district": "East Karbi Anglong",
-            "Rain Today": 2.84,
-            "Rain Tomorrow": 0.05
+            "Rain Today": 2.92,
+            "Rain Tomorrow": 0.02
         },
         {
             "district": "Goalpara",
@@ -76,53 +76,53 @@
         },
         {
             "district": "Golaghat",
-            "Rain Today": 1.89,
-            "Rain Tomorrow": 0.12
-        },
-        {
-            "district": "Hailakandi",
-            "Rain Today": 0.3,
+            "Rain Today": 3.58,
             "Rain Tomorrow": 0.0
         },
         {
+            "district": "Hailakandi",
+            "Rain Today": 0.22,
+            "Rain Tomorrow": 4.17
+        },
+        {
             "district": "Hojai",
-            "Rain Today": 0.9,
+            "Rain Today": 1.2,
             "Rain Tomorrow": 0.0
         },
         {
             "district": "Jorhat",
-            "Rain Today": 1.24,
-            "Rain Tomorrow": 0.01
+            "Rain Today": 4.3,
+            "Rain Tomorrow": 0.02
         },
         {
             "district": "Kamrup Metro",
-            "Rain Today": 1.61,
+            "Rain Today": 0.02,
             "Rain Tomorrow": 0.0
         },
         {
             "district": "Kamrup Rural",
-            "Rain Today": 0.41,
+            "Rain Today": 0.19,
             "Rain Tomorrow": 0.0
         },
         {
             "district": "Karimganj",
-            "Rain Today": 0.35,
-            "Rain Tomorrow": 0.0
+            "Rain Today": 0.24,
+            "Rain Tomorrow": 4.39
         },
         {
             "district": "Kokrajhar",
-            "Rain Today": 0.0,
-            "Rain Tomorrow": 0.0
+            "Rain Today": 0.11,
+            "Rain Tomorrow": 0.02
         },
         {
             "district": "Lakhimpur",
-            "Rain Today": 3.12,
-            "Rain Tomorrow": 0.12
+            "Rain Today": 2.69,
+            "Rain Tomorrow": 1.73
         },
         {
             "district": "Majuli",
-            "Rain Today": 0.98,
-            "Rain Tomorrow": 0.0
+            "Rain Today": 2.13,
+            "Rain Tomorrow": 0.09
         },
         {
             "district": "Mancachar",
@@ -131,12 +131,12 @@
         },
         {
             "district": "Morigaon",
-            "Rain Today": 0.8,
+            "Rain Today": 0.0,
             "Rain Tomorrow": 0.0
         },
         {
             "district": "Nagaon",
-            "Rain Today": 0.82,
+            "Rain Today": 0.13,
             "Rain Tomorrow": 0.0
         },
         {
@@ -146,28 +146,28 @@
         },
         {
             "district": "Sibsagar",
-            "Rain Today": 2.12,
-            "Rain Tomorrow": 0.0
+            "Rain Today": 4.99,
+            "Rain Tomorrow": 0.14
         },
         {
             "district": "Sonitpur",
-            "Rain Today": 2.04,
-            "Rain Tomorrow": 0.05
+            "Rain Today": 0.38,
+            "Rain Tomorrow": 0.02
         },
         {
             "district": "Tinsukia",
-            "Rain Today": 1.54,
-            "Rain Tomorrow": 0.0
+            "Rain Today": 0.32,
+            "Rain Tomorrow": 4.56
         },
         {
             "district": "Udalguri",
-            "Rain Today": 1.48,
-            "Rain Tomorrow": 0.21
+            "Rain Today": 0.68,
+            "Rain Tomorrow": 0.1
         },
         {
             "district": "West Karbi Anglong",
-            "Rain Today": 2.71,
-            "Rain Tomorrow": 0.0
+            "Rain Today": 0.84,
+            "Rain Tomorrow": 0.13
         }
     ]
 }
