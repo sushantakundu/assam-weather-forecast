@@ -1,7 +1,7 @@
 {
     "source": "IMD AWS/ARG",
-    "generated_at": "2026-04-06 00:02 UTC",
-    "station_count": 205,
+    "generated_at": "2026-04-06 00:22 UTC",
+    "station_count": 201,
     "data": [
         {
             "ID": "ARHAY000",
@@ -1942,23 +1942,6 @@
             "WEATHER_MESSAGE": "Hazy"
         },
         {
-            "ID": "MENEV000",
-            "DISTRICT": "EAST_KHASI_HILLS",
-            "STATE": "MEGHALAYA",
-            "STATION": "NEHU",
-            "DATE": "2026-04-05",
-            "TIME": "22:15:00",
-            "CURR_TEMP": "14.7",
-            "RH": "67",
-            "MSLP": null,
-            "Latitude": "25.6083",
-            "Longitude": "91.8919",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.0",
-            "Feel Like": "14.7",
-            "WEATHER_MESSAGE": "Hazy"
-        },
-        {
             "ID": "55E41E0E",
             "DISTRICT": "EAST_KHASI_HILLS",
             "STATE": "MEGHALAYA",
@@ -2622,23 +2605,6 @@
             "WEATHER_MESSAGE": "Clear Weather"
         },
         {
-            "ID": "ARKGK000",
-            "DISTRICT": "LOWER_SIANG",
-            "STATE": "ARUNACHAL_PRADESH",
-            "STATION": "KANGKU",
-            "DATE": "2026-04-05",
-            "TIME": "22:15:00",
-            "CURR_TEMP": "21.5",
-            "RH": "100",
-            "MSLP": "1000.4",
-            "Latitude": "27.5767",
-            "Longitude": "94.4999",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "1.5",
-            "Feel Like": "21.5",
-            "WEATHER_MESSAGE": "Clear Weather"
-        },
-        {
             "ID": "ARLEK000",
             "DISTRICT": "NAMSAI",
             "STATE": "ARUNACHAL_PRADESH",
@@ -3149,23 +3115,6 @@
             "WEATHER_MESSAGE": "Clear Weather"
         },
         {
-            "ID": "ASCAD000",
-            "DISTRICT": "KAMRUP",
-            "STATE": "ASSAM",
-            "STATION": "CHANDUBI",
-            "DATE": "2026-04-05",
-            "TIME": "22:15:00",
-            "CURR_TEMP": "21.6",
-            "RH": null,
-            "MSLP": "1008.1",
-            "Latitude": "25.8733",
-            "Longitude": "91.4317",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.0",
-            "Feel Like": "21.6",
-            "WEATHER_MESSAGE": "Clear Weather"
-        },
-        {
             "ID": "ASDTU000",
             "DISTRICT": "KAMRUP_METROPOLITAN",
             "STATE": "ASSAM",
@@ -3401,23 +3350,6 @@
             "RAINFALL_SEL": "0.0",
             "RAINFALL": "0.5",
             "Feel Like": "20.6",
-            "WEATHER_MESSAGE": "Clear Weather"
-        },
-        {
-            "ID": "ASNTP000",
-            "DISTRICT": "TINSUKIA",
-            "STATE": "ASSAM",
-            "STATION": "NTPS_APDCL",
-            "DATE": "2026-04-05",
-            "TIME": "22:15:00",
-            "CURR_TEMP": "20.7",
-            "RH": "100",
-            "MSLP": "1004.9",
-            "Latitude": "27.1791",
-            "Longitude": "95.3749",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.5",
-            "Feel Like": "20.7",
             "WEATHER_MESSAGE": "Clear Weather"
         },
         {
