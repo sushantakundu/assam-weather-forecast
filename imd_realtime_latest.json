@@ -1,7 +1,7 @@
 {
     "source": "IMD AWS/ARG",
-    "generated_at": "2026-04-08 00:02 UTC",
-    "station_count": 123,
+    "generated_at": "2026-04-08 00:22 UTC",
+    "station_count": 122,
     "data": [
         {
             "ID": "ARHAY000",
@@ -922,26 +922,6 @@
             "summary": "Cool",
             "icon": "\u2744",
             "WEATHER_MESSAGE": "Clear Weather"
-        },
-        {
-            "ID": "A0B4BF1C",
-            "DISTRICT": "NORTH_TRIPURA",
-            "STATE": "TRIPURA",
-            "STATION": "KAMALPUR",
-            "DATE": "2026-04-07",
-            "TIME": "22:15:00",
-            "CURR_TEMP": "18.1",
-            "RH": "49",
-            "MSLP": null,
-            "Latitude": "24.1867",
-            "Longitude": "91.8278",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.0",
-            "Feel Like": "18.1",
-            "feels_like_calc": 18.1,
-            "summary": "Cool",
-            "icon": "\u2744",
-            "WEATHER_MESSAGE": "Mist"
         },
         {
             "ID": "TRSEH000",
