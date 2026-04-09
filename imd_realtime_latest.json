@@ -1,7 +1,7 @@
 {
     "source": "IMD AWS/ARG",
-    "generated_at": "2026-04-09 00:02 UTC",
-    "station_count": 121,
+    "generated_at": "2026-04-09 00:22 UTC",
+    "station_count": 119,
     "data": [
         {
             "ID": "ARHAY000",
@@ -1544,26 +1544,6 @@
             "WEATHER_MESSAGE": "Light Rain"
         },
         {
-            "ID": "ARKGK000",
-            "DISTRICT": "LOWER_SIANG",
-            "STATE": "ARUNACHAL_PRADESH",
-            "STATION": "KANGKU",
-            "DATE": "2026-04-08",
-            "TIME": "22:15:00",
-            "CURR_TEMP": "18.6",
-            "RH": "100",
-            "MSLP": "1004.1",
-            "Latitude": "27.5767",
-            "Longitude": "94.4999",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "1.5",
-            "Feel Like": "18.6",
-            "feels_like_calc": 18.6,
-            "summary": "Cool",
-            "icon": "\u2744",
-            "WEATHER_MESSAGE": "Clear Weather"
-        },
-        {
             "ID": "ARLEK000",
             "DISTRICT": "NAMSAI",
             "STATE": "ARUNACHAL_PRADESH",
@@ -2061,26 +2041,6 @@
             "feels_like_calc": 21.1,
             "summary": "Pleasant",
             "icon": "\ud83c\udf24",
-            "WEATHER_MESSAGE": "Clear Weather"
-        },
-        {
-            "ID": "ASMRY000",
-            "DISTRICT": "JORHAT",
-            "STATE": "ASSAM",
-            "STATION": "MARIYANI_AEGCL",
-            "DATE": "2026-04-08",
-            "TIME": "22:15:00",
-            "CURR_TEMP": "19.3",
-            "RH": "100",
-            "MSLP": "1011.0",
-            "Latitude": "26.6318",
-            "Longitude": "94.3357",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.0",
-            "Feel Like": "19.3",
-            "feels_like_calc": 19.3,
-            "summary": "Cool",
-            "icon": "\u2744",
             "WEATHER_MESSAGE": "Clear Weather"
         },
         {
