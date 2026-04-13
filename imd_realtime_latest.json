@@ -1,7 +1,7 @@
 {
     "source": "IMD AWS/ARG",
-    "generated_at": "2026-04-13 00:02 UTC",
-    "station_count": 118,
+    "generated_at": "2026-04-13 00:22 UTC",
+    "station_count": 115,
     "data": [
         {
             "ID": "ARHAY000",
@@ -382,26 +382,6 @@
             "summary": "Cool with Light Rain",
             "icon": "\ud83c\udf27",
             "WEATHER_MESSAGE": "Light Rain"
-        },
-        {
-            "ID": "MRSOS000",
-            "DISTRICT": "SENAPATI",
-            "STATE": "MANIPUR",
-            "STATION": "MAO",
-            "DATE": "2026-04-12",
-            "TIME": "22:15:00",
-            "CURR_TEMP": "13.9",
-            "RH": "95",
-            "MSLP": null,
-            "Latitude": "25.5088",
-            "Longitude": "94.1497",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.0",
-            "Feel Like": "13.9",
-            "feels_like_calc": 13.9,
-            "summary": "Cool",
-            "icon": "\u2744",
-            "WEATHER_MESSAGE": "Clear Weather"
         },
         {
             "ID": "MRADC000",
@@ -822,26 +802,6 @@
             "summary": "Pleasant",
             "icon": "\ud83c\udf24",
             "WEATHER_MESSAGE": "Clear Weather"
-        },
-        {
-            "ID": "A0B4BF1C",
-            "DISTRICT": "NORTH_TRIPURA",
-            "STATE": "TRIPURA",
-            "STATION": "KAMALPUR",
-            "DATE": "2026-04-12",
-            "TIME": "22:15:00",
-            "CURR_TEMP": "23.4",
-            "RH": "56",
-            "MSLP": null,
-            "Latitude": "24.1867",
-            "Longitude": "91.8278",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.0",
-            "Feel Like": "23.4",
-            "feels_like_calc": 23.4,
-            "summary": "Pleasant",
-            "icon": "\ud83c\udf24",
-            "WEATHER_MESSAGE": "Mist"
         },
         {
             "ID": "TRSEH000",
@@ -1962,26 +1922,6 @@
             "summary": "Cool with Light Rain",
             "icon": "\ud83c\udf27",
             "WEATHER_MESSAGE": "Light Rain"
-        },
-        {
-            "ID": "ASHIL000",
-            "DISTRICT": "HAILAKANDI",
-            "STATE": "ASSAM",
-            "STATION": "ALGAPUR_CIRCLE",
-            "DATE": "2026-04-12",
-            "TIME": "22:15:00",
-            "CURR_TEMP": "22.5",
-            "RH": "100",
-            "MSLP": "1006.8",
-            "Latitude": "24.7543",
-            "Longitude": "92.5947",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "26.0",
-            "Feel Like": "22.5",
-            "feels_like_calc": 22.5,
-            "summary": "Pleasant",
-            "icon": "\ud83c\udf24",
-            "WEATHER_MESSAGE": "Clear Weather"
         },
         {
             "ID": "ASPNC000",
