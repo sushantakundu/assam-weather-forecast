@@ -1,7 +1,7 @@
 {
     "source": "IMD AWS/ARG",
-    "generated_at": "2026-04-16 00:02 UTC",
-    "station_count": 114,
+    "generated_at": "2026-04-16 00:22 UTC",
+    "station_count": 113,
     "data": [
         {
             "ID": "ARHAY000",
@@ -1139,26 +1139,6 @@
             "RAINFALL": "0.0",
             "Feel Like": "19.1",
             "feels_like_calc": 19.1,
-            "summary": "Cool",
-            "icon": "\u2744",
-            "WEATHER_MESSAGE": "Mist"
-        },
-        {
-            "ID": "MENEV000",
-            "DISTRICT": "EAST_KHASI_HILLS",
-            "STATE": "MEGHALAYA",
-            "STATION": "NEHU",
-            "DATE": "2026-04-15",
-            "TIME": "22:15:00",
-            "CURR_TEMP": "14.5",
-            "RH": "85",
-            "MSLP": null,
-            "Latitude": "25.6083",
-            "Longitude": "91.8919",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.0",
-            "Feel Like": "14.5",
-            "feels_like_calc": 14.5,
             "summary": "Cool",
             "icon": "\u2744",
             "WEATHER_MESSAGE": "Mist"
