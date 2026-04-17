@@ -1,7 +1,7 @@
 {
     "source": "IMD AWS/ARG",
-    "generated_at": "2026-04-17 05:22 UTC",
-    "station_count": 128,
+    "generated_at": "2026-04-17 05:42 UTC",
+    "station_count": 127,
     "data": [
         {
             "ID": "ARHAY000",
@@ -2061,26 +2061,6 @@
             "feels_like_calc": 30.0,
             "summary": "Warm",
             "icon": "\ud83c\udf24",
-            "WEATHER_MESSAGE": "Clear Weather"
-        },
-        {
-            "ID": "ASSLH000",
-            "DISTRICT": "DHEMAJI",
-            "STATE": "ASSAM",
-            "STATION": "SILAPATHAR_SCIENCE_COLLEGE",
-            "DATE": "2026-04-17",
-            "TIME": "03:30:00",
-            "CURR_TEMP": "31.6",
-            "RH": "46",
-            "MSLP": "1009.6",
-            "Latitude": "27.6071",
-            "Longitude": "94.7327",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.0",
-            "Feel Like": "32.8",
-            "feels_like_calc": 32.8,
-            "summary": "Hot",
-            "icon": "\ud83d\udd25",
             "WEATHER_MESSAGE": "Clear Weather"
         },
         {
