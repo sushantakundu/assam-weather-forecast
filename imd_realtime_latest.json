@@ -1,7 +1,7 @@
 {
     "source": "IMD AWS/ARG",
-    "generated_at": "2026-04-17 00:02 UTC",
-    "station_count": 119,
+    "generated_at": "2026-04-17 00:22 UTC",
+    "station_count": 117,
     "data": [
         {
             "ID": "ARHAY000",
@@ -1184,26 +1184,6 @@
             "WEATHER_MESSAGE": "Mist"
         },
         {
-            "ID": "MENEV000",
-            "DISTRICT": "EAST_KHASI_HILLS",
-            "STATE": "MEGHALAYA",
-            "STATION": "NEHU",
-            "DATE": "2026-04-16",
-            "TIME": "22:15:00",
-            "CURR_TEMP": "15.7",
-            "RH": "97",
-            "MSLP": null,
-            "Latitude": "25.6083",
-            "Longitude": "91.8919",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.0",
-            "Feel Like": "15.7",
-            "feels_like_calc": 15.7,
-            "summary": "Cool",
-            "icon": "\u2744",
-            "WEATHER_MESSAGE": "Mist"
-        },
-        {
             "ID": "55E440A0",
             "DISTRICT": "RI_BHOI",
             "STATE": "MEGHALAYA",
@@ -1282,26 +1262,6 @@
             "summary": "Pleasant",
             "icon": "\ud83c\udf24",
             "WEATHER_MESSAGE": "Clear Weather"
-        },
-        {
-            "ID": "TRCIT000",
-            "DISTRICT": "SIPAHIJALA",
-            "STATE": "TRIPURA",
-            "STATION": "CTI",
-            "DATE": "2026-04-16",
-            "TIME": "22:15:00",
-            "CURR_TEMP": "24.8",
-            "RH": "100",
-            "MSLP": null,
-            "Latitude": "23.7413",
-            "Longitude": "91.2728",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.0",
-            "Feel Like": "24.8",
-            "feels_like_calc": 24.8,
-            "summary": "Pleasant",
-            "icon": "\ud83c\udf24",
-            "WEATHER_MESSAGE": "Mist"
         },
         {
             "ID": "ARLOT000",
