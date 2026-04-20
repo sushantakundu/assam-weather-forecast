@@ -1,7 +1,7 @@
 {
     "source": "IMD AWS/ARG",
-    "generated_at": "2026-04-20 00:02 UTC",
-    "station_count": 114,
+    "generated_at": "2026-04-20 00:22 UTC",
+    "station_count": 112,
     "data": [
         {
             "ID": "ARHAY000",
@@ -1664,26 +1664,6 @@
             "WEATHER_MESSAGE": "Clear Weather"
         },
         {
-            "ID": "ARPSG000",
-            "DISTRICT": "EAST_SIANG",
-            "STATE": "ARUNACHAL_PRADESH",
-            "STATION": "PASHIGHAT",
-            "DATE": "2026-04-19",
-            "TIME": "22:15:00",
-            "CURR_TEMP": "23.2",
-            "RH": "98",
-            "MSLP": "1008.5",
-            "Latitude": "28.0695",
-            "Longitude": "95.3323",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.0",
-            "Feel Like": "23.2",
-            "feels_like_calc": 23.2,
-            "summary": "Pleasant",
-            "icon": "\ud83c\udf24",
-            "WEATHER_MESSAGE": "Clear Weather"
-        },
-        {
             "ID": "ARRAB000",
             "DISTRICT": "KAMLE",
             "STATE": "ARUNACHAL_PRADESH",
@@ -1922,26 +1902,6 @@
             "summary": "Pleasant with Light Rain",
             "icon": "\ud83c\udf27",
             "WEATHER_MESSAGE": "Light Rain"
-        },
-        {
-            "ID": "ASMRY000",
-            "DISTRICT": "JORHAT",
-            "STATE": "ASSAM",
-            "STATION": "MARIYANI_AEGCL",
-            "DATE": "2026-04-19",
-            "TIME": "22:15:00",
-            "CURR_TEMP": "23.8",
-            "RH": "100",
-            "MSLP": "1005.0",
-            "Latitude": "26.6318",
-            "Longitude": "94.3357",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.0",
-            "Feel Like": "23.8",
-            "feels_like_calc": 23.8,
-            "summary": "Pleasant",
-            "icon": "\ud83c\udf24",
-            "WEATHER_MESSAGE": "Clear Weather"
         },
         {
             "ID": "ASBOO000",
