@@ -1,7 +1,7 @@
 {
     "source": "IMD AWS/ARG",
-    "generated_at": "2026-04-21 00:02 UTC",
-    "station_count": 122,
+    "generated_at": "2026-04-21 00:22 UTC",
+    "station_count": 120,
     "data": [
         {
             "ID": "ARHAY000",
@@ -339,26 +339,6 @@
             "RAINFALL": "0.0",
             "Feel Like": "22.4",
             "feels_like_calc": 22.4,
-            "summary": "Pleasant",
-            "icon": "\ud83c\udf24",
-            "WEATHER_MESSAGE": "Mist"
-        },
-        {
-            "ID": "A0A38F2C",
-            "DISTRICT": "IMPHAL_WEST",
-            "STATE": "MANIPUR",
-            "STATION": "IMPHAL_AMFU",
-            "DATE": "2026-04-20",
-            "TIME": "21:15:00",
-            "CURR_TEMP": "22.7",
-            "RH": "99",
-            "MSLP": "971.0",
-            "Latitude": "24.8267",
-            "Longitude": "93.9244",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.0",
-            "Feel Like": "22.7",
-            "feels_like_calc": 22.7,
             "summary": "Pleasant",
             "icon": "\ud83c\udf24",
             "WEATHER_MESSAGE": "Mist"
@@ -1542,26 +1522,6 @@
             "summary": "Pleasant with Light Rain",
             "icon": "\ud83c\udf27",
             "WEATHER_MESSAGE": "Light Rain"
-        },
-        {
-            "ID": "ARKGK000",
-            "DISTRICT": "LOWER_SIANG",
-            "STATE": "ARUNACHAL_PRADESH",
-            "STATION": "KANGKU",
-            "DATE": "2026-04-20",
-            "TIME": "21:15:00",
-            "CURR_TEMP": "21.8",
-            "RH": "100",
-            "MSLP": "997.5",
-            "Latitude": "27.5767",
-            "Longitude": "94.4999",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "1.5",
-            "Feel Like": "21.8",
-            "feels_like_calc": 21.8,
-            "summary": "Pleasant",
-            "icon": "\ud83c\udf24",
-            "WEATHER_MESSAGE": "Clear Weather"
         },
         {
             "ID": "ARLEK000",
