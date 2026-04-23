@@ -1,240 +1,338 @@
 {
-    "model_run": "2026-04-23 05:30 IST",
-    "forecast_start": "2026-04-23 05:30 IST",
-    "forecast_end": "2026-04-24 05:30 IST",
-    "forecast_type": "0-24hr",
     "source": "GFS",
+    "model_run": "2026-04-23 05:30 IST",
+    "Valid (Today)": "23 Apr 05:30 - 24 Apr 05:30",
+    "Valid (Tomorrow)": "24 Apr 05:30 - 25 Apr 05:30",
     "data": [
         {
             "district": "Jorhat",
             "district_id": "jorhat",
-            "tmax": 32.4,
-            "tmin": 22.8,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 0.0,
+            "tmax Today": 32.4,
+            "tmin Today": 22.8,
+            "tmax Tomorrow": 34.1,
+            "tmin Tomorrow": 24.1
         },
         {
             "district": "Golaghat",
             "district_id": "golaghat",
-            "tmax": 32.8,
-            "tmin": 23.3,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 0.01,
+            "tmax Today": 32.8,
+            "tmin Today": 23.3,
+            "tmax Tomorrow": 34.3,
+            "tmin Tomorrow": 24.6
         },
         {
             "district": "Nagaon",
             "district_id": "nagaon",
-            "tmax": 33.9,
-            "tmin": 24.0,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 0.01,
+            "tmax Today": 33.9,
+            "tmin Today": 24.0,
+            "tmax Tomorrow": 35.0,
+            "tmin Tomorrow": 25.2
         },
         {
             "district": "East Karbi Anglong",
             "district_id": "east_karbi_anglong",
-            "tmax": 33.3,
-            "tmin": 21.8,
-            "rainfall": 0.0
+            "Rain Today": 0.01,
+            "Rain Tomorrow": 0.02,
+            "tmax Today": 33.3,
+            "tmin Today": 21.8,
+            "tmax Tomorrow": 34.8,
+            "tmin Tomorrow": 23.1
         },
         {
             "district": "Morigaon",
             "district_id": "morigaon",
-            "tmax": 35.3,
-            "tmin": 24.6,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 0.0,
+            "tmax Today": 35.3,
+            "tmin Today": 24.6,
+            "tmax Tomorrow": 36.5,
+            "tmin Tomorrow": 25.7
         },
         {
             "district": "Dhubri",
             "district_id": "dhubri",
-            "tmax": 35.0,
-            "tmin": 25.5,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 0.6,
+            "tmax Today": 35.0,
+            "tmin Today": 25.5,
+            "tmax Tomorrow": 36.4,
+            "tmin Tomorrow": 26.5
         },
         {
             "district": "West Karbi Anglong",
             "district_id": "west_karbi_anglong",
-            "tmax": 33.3,
-            "tmin": 22.3,
-            "rainfall": 0.0
+            "Rain Today": 0.02,
+            "Rain Tomorrow": 0.03,
+            "tmax Today": 33.3,
+            "tmin Today": 22.3,
+            "tmax Tomorrow": 34.1,
+            "tmin Tomorrow": 23.1
         },
         {
             "district": "Kamrup Metro",
             "district_id": "kamrup_metro",
-            "tmax": 35.4,
-            "tmin": 24.4,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 0.0,
+            "tmax Today": 35.4,
+            "tmin Today": 24.3,
+            "tmax Tomorrow": 36.7,
+            "tmin Tomorrow": 25.5
         },
         {
             "district": "Sibsagar",
             "district_id": "sibsagar",
-            "tmax": 32.6,
-            "tmin": 23.0,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 0.0,
+            "tmax Today": 32.6,
+            "tmin Today": 23.0,
+            "tmax Tomorrow": 34.5,
+            "tmin Tomorrow": 24.4
         },
         {
             "district": "Barpeta",
             "district_id": "barpeta",
-            "tmax": 35.1,
-            "tmin": 24.9,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 1.06,
+            "tmax Today": 35.1,
+            "tmin Today": 24.9,
+            "tmax Tomorrow": 36.5,
+            "tmin Tomorrow": 25.3
         },
         {
             "district": "Kamrup Rural",
             "district_id": "kamrup_rural",
-            "tmax": 34.0,
-            "tmin": 23.7,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 0.09,
+            "tmax Today": 34.0,
+            "tmin Today": 23.7,
+            "tmax Tomorrow": 35.5,
+            "tmin Tomorrow": 24.9
         },
         {
             "district": "Goalpara",
             "district_id": "goalpara",
-            "tmax": 35.1,
-            "tmin": 24.9,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 0.19,
+            "tmax Today": 35.1,
+            "tmin Today": 24.9,
+            "tmax Tomorrow": 36.9,
+            "tmin Tomorrow": 25.5
         },
         {
             "district": "Lakhimpur",
             "district_id": "lakhimpur",
-            "tmax": 32.0,
-            "tmin": 22.4,
-            "rainfall": 0.0
+            "Rain Today": 0.01,
+            "Rain Tomorrow": 0.06,
+            "tmax Today": 32.0,
+            "tmin Today": 22.4,
+            "tmax Tomorrow": 33.6,
+            "tmin Tomorrow": 23.5
         },
         {
             "district": "Darrang",
             "district_id": "darrang",
-            "tmax": 34.4,
-            "tmin": 24.6,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 0.16,
+            "tmax Today": 34.4,
+            "tmin Today": 24.6,
+            "tmax Tomorrow": 36.1,
+            "tmin Tomorrow": 25.8
         },
         {
             "district": "Chirang",
             "district_id": "chirang",
-            "tmax": 33.5,
-            "tmin": 23.7,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 1.78,
+            "tmax Today": 33.5,
+            "tmin Today": 23.7,
+            "tmax Tomorrow": 35.2,
+            "tmin Tomorrow": 22.9
         },
         {
             "district": "Baksa",
             "district_id": "baksa",
-            "tmax": 34.2,
-            "tmin": 23.4,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 1.1,
+            "tmax Today": 34.2,
+            "tmin Today": 23.4,
+            "tmax Tomorrow": 36.2,
+            "tmin Tomorrow": 22.8
         },
         {
             "district": "Nalbari",
             "district_id": "nalbari",
-            "tmax": 35.2,
-            "tmin": 25.0,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 0.44,
+            "tmax Today": 35.2,
+            "tmin Today": 25.0,
+            "tmax Tomorrow": 36.6,
+            "tmin Tomorrow": 26.1
         },
         {
             "district": "Bongaigaon",
             "district_id": "bongaigaon",
-            "tmax": 35.1,
-            "tmin": 25.0,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 1.06,
+            "tmax Today": 35.1,
+            "tmin Today": 25.0,
+            "tmax Tomorrow": 36.6,
+            "tmin Tomorrow": 25.3
         },
         {
             "district": "Dibrugarh",
             "district_id": "dibrugarh",
-            "tmax": 31.8,
-            "tmin": 21.7,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 0.0,
+            "tmax Today": 31.8,
+            "tmin Today": 21.7,
+            "tmax Tomorrow": 33.4,
+            "tmin Tomorrow": 23.0
         },
         {
             "district": "Tinsukia",
             "district_id": "tinsukia",
-            "tmax": 31.0,
-            "tmin": 20.7,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 0.01,
+            "tmax Today": 31.0,
+            "tmin Today": 20.7,
+            "tmax Tomorrow": 32.7,
+            "tmin Tomorrow": 22.2
         },
         {
             "district": "Dhemaji",
             "district_id": "dhemaji",
-            "tmax": 31.6,
-            "tmin": 21.3,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 0.0,
+            "tmax Today": 31.6,
+            "tmin Today": 21.3,
+            "tmax Tomorrow": 33.3,
+            "tmin Tomorrow": 22.5
         },
         {
             "district": "Kokrajhar",
             "district_id": "kokrajhar",
-            "tmax": 35.1,
-            "tmin": 24.3,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 1.63,
+            "tmax Today": 35.1,
+            "tmin Today": 24.3,
+            "tmax Tomorrow": 36.2,
+            "tmin Tomorrow": 23.4
         },
         {
             "district": "Udalguri",
             "district_id": "udalguri",
-            "tmax": 33.7,
-            "tmin": 24.5,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 0.8,
+            "tmax Today": 33.7,
+            "tmin Today": 24.4,
+            "tmax Tomorrow": 36.2,
+            "tmin Tomorrow": 24.4
         },
         {
             "district": "Hojai",
             "district_id": "hojai",
-            "tmax": 34.8,
-            "tmin": 24.1,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 0.0,
+            "tmax Today": 34.8,
+            "tmin Today": 24.1,
+            "tmax Tomorrow": 36.3,
+            "tmin Tomorrow": 25.4
         },
         {
             "district": "Charaideo",
             "district_id": "charaideo",
-            "tmax": 31.3,
-            "tmin": 21.9,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 0.01,
+            "tmax Today": 31.3,
+            "tmin Today": 21.8,
+            "tmax Tomorrow": 32.9,
+            "tmin Tomorrow": 23.2
         },
         {
             "district": "Majuli",
             "district_id": "majuli",
-            "tmax": 32.7,
-            "tmin": 23.6,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 0.06,
+            "tmax Today": 32.7,
+            "tmin Today": 23.5,
+            "tmax Tomorrow": 34.5,
+            "tmin Tomorrow": 24.4
         },
         {
             "district": "Mancachar",
             "district_id": "mancachar",
-            "tmax": 36.9,
-            "tmin": 25.3,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 0.0,
+            "tmax Today": 36.9,
+            "tmin Today": 25.3,
+            "tmax Tomorrow": 37.6,
+            "tmin Tomorrow": 27.6
         },
         {
             "district": "Biswanath",
             "district_id": "biswanath",
-            "tmax": 32.5,
-            "tmin": 22.6,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 0.0,
+            "tmax Today": 32.5,
+            "tmin Today": 22.5,
+            "tmax Tomorrow": 35.5,
+            "tmin Tomorrow": 24.0
         },
         {
             "district": "Sonitpur",
             "district_id": "sonitpur",
-            "tmax": 33.1,
-            "tmin": 22.9,
-            "rainfall": 0.0
+            "Rain Today": 0.0,
+            "Rain Tomorrow": 1.03,
+            "tmax Today": 33.1,
+            "tmin Today": 22.9,
+            "tmax Tomorrow": 35.5,
+            "tmin Tomorrow": 23.6
         },
         {
             "district": "Cachar",
             "district_id": "cachar",
-            "tmax": 33.7,
-            "tmin": 22.6,
-            "rainfall": 0.3
+            "Rain Today": 0.31,
+            "Rain Tomorrow": 0.0,
+            "tmax Today": 33.7,
+            "tmin Today": 22.6,
+            "tmax Tomorrow": 36.3,
+            "tmin Tomorrow": 23.1
         },
         {
             "district": "Karimganj",
             "district_id": "karimganj",
-            "tmax": 35.4,
-            "tmin": 23.6,
-            "rainfall": 0.2
+            "Rain Today": 0.25,
+            "Rain Tomorrow": 0.04,
+            "tmax Today": 35.4,
+            "tmin Today": 23.6,
+            "tmax Tomorrow": 37.2,
+            "tmin Tomorrow": 23.6
         },
         {
             "district": "Hailakandi",
             "district_id": "hailakandi",
-            "tmax": 37.3,
-            "tmin": 22.9,
-            "rainfall": 0.1
+            "Rain Today": 0.06,
+            "Rain Tomorrow": 0.03,
+            "tmax Today": 37.3,
+            "tmin Today": 22.8,
+            "tmax Tomorrow": 38.9,
+            "tmin Tomorrow": 22.9
         },
         {
             "district": "Dima Hasao",
             "district_id": "dima_hasao",
-            "tmax": 34.2,
-            "tmin": 21.4,
-            "rainfall": 0.0
+            "Rain Today": 0.01,
+            "Rain Tomorrow": 0.0,
+            "tmax Today": 34.2,
+            "tmin Today": 21.4,
+            "tmax Tomorrow": 35.8,
+            "tmin Tomorrow": 22.2
         }
     ]
 }
