@@ -1,7 +1,7 @@
 {
     "source": "IMD AWS/ARG",
-    "generated_at": "2026-04-25 00:02 UTC",
-    "station_count": 125,
+    "generated_at": "2026-04-25 00:22 UTC",
+    "station_count": 123,
     "data": [
         {
             "ID": "ARHAY000",
@@ -762,26 +762,6 @@
             "summary": "Cool",
             "icon": "\u2744",
             "WEATHER_MESSAGE": "Clear Weather"
-        },
-        {
-            "ID": "5B76500A",
-            "DISTRICT": "GANGTOK",
-            "STATE": "SIKKIM",
-            "STATION": "TADONG",
-            "DATE": "2026-04-24",
-            "TIME": "21:15:00",
-            "CURR_TEMP": "37.3",
-            "RH": "95",
-            "MSLP": "952.1",
-            "Latitude": "27.33",
-            "Longitude": "88.6167",
-            "RAINFALL_SEL": "0.5",
-            "RAINFALL": "55.0",
-            "Feel Like": "81.9",
-            "feels_like_calc": 81.9,
-            "summary": "Hot & Humid with Light Rain",
-            "icon": "\ud83c\udf27",
-            "WEATHER_MESSAGE": "Light Rain"
         },
         {
             "ID": "SIGAT000",
@@ -2099,26 +2079,6 @@
             "RAINFALL": "0.0",
             "Feel Like": "25.4",
             "feels_like_calc": 25.4,
-            "summary": "Pleasant",
-            "icon": "\ud83c\udf24",
-            "WEATHER_MESSAGE": "Clear Weather"
-        },
-        {
-            "ID": "ASMRY000",
-            "DISTRICT": "JORHAT",
-            "STATE": "ASSAM",
-            "STATION": "MARIYANI_AEGCL",
-            "DATE": "2026-04-24",
-            "TIME": "21:15:00",
-            "CURR_TEMP": "25.6",
-            "RH": "100",
-            "MSLP": "1008.0",
-            "Latitude": "26.6318",
-            "Longitude": "94.3357",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.0",
-            "Feel Like": "25.6",
-            "feels_like_calc": 25.6,
             "summary": "Pleasant",
             "icon": "\ud83c\udf24",
             "WEATHER_MESSAGE": "Clear Weather"
