@@ -1,7 +1,7 @@
 {
     "source": "IMD AWS/ARG",
-    "generated_at": "2026-04-26 00:02 UTC",
-    "station_count": 125,
+    "generated_at": "2026-04-26 00:22 UTC",
+    "station_count": 124,
     "data": [
         {
             "ID": "ARHAY000",
@@ -381,26 +381,6 @@
             "feels_like_calc": 16.5,
             "summary": "Cool",
             "icon": "\u2744",
-            "WEATHER_MESSAGE": "Clear Weather"
-        },
-        {
-            "ID": "MRADC000",
-            "DISTRICT": "TENGNOUPAL",
-            "STATE": "MANIPUR",
-            "STATION": "ADC MOREH",
-            "DATE": "2026-04-25",
-            "TIME": "21:15:00",
-            "CURR_TEMP": "25.4",
-            "RH": "87",
-            "MSLP": "1004.4",
-            "Latitude": "24.2596",
-            "Longitude": "94.2897",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.0",
-            "Feel Like": "25.4",
-            "feels_like_calc": 25.4,
-            "summary": "Pleasant",
-            "icon": "\ud83c\udf24",
             "WEATHER_MESSAGE": "Clear Weather"
         },
         {
