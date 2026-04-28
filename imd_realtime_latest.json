@@ -1,7 +1,7 @@
 {
     "source": "IMD AWS/ARG",
-    "generated_at": "2026-04-28 00:02 UTC",
-    "station_count": 123,
+    "generated_at": "2026-04-28 00:22 UTC",
+    "station_count": 122,
     "data": [
         {
             "ID": "ARHAY000",
@@ -661,26 +661,6 @@
             "feels_like_calc": 19.5,
             "summary": "Cool",
             "icon": "\u2744",
-            "WEATHER_MESSAGE": "Clear Weather"
-        },
-        {
-            "ID": "MICAW000",
-            "DISTRICT": "LAWNGTLAI",
-            "STATE": "MIZORAM",
-            "STATION": "CHAWNHU",
-            "DATE": "2026-04-27",
-            "TIME": "21:15:00",
-            "CURR_TEMP": "20.1",
-            "RH": "90",
-            "MSLP": "888.5",
-            "Latitude": "22.5055",
-            "Longitude": "92.8949",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "10.5",
-            "Feel Like": "20.1",
-            "feels_like_calc": 20.1,
-            "summary": "Pleasant",
-            "icon": "\ud83c\udf24",
             "WEATHER_MESSAGE": "Clear Weather"
         },
         {
