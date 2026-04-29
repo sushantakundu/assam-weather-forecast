@@ -1,7 +1,7 @@
 {
     "source": "IMD AWS/ARG",
-    "generated_at": "2026-04-29 00:02 UTC",
-    "station_count": 114,
+    "generated_at": "2026-04-29 00:22 UTC",
+    "station_count": 113,
     "data": [
         {
             "ID": "ARHAY000",
@@ -1521,26 +1521,6 @@
             "feels_like_calc": 14.5,
             "summary": "Cool",
             "icon": "\u2744",
-            "WEATHER_MESSAGE": "Clear Weather"
-        },
-        {
-            "ID": "MEMWY000",
-            "DISTRICT": "EAST_KHASI_HILLS",
-            "STATE": "MEGHALAYA",
-            "STATION": "MAWSYNRAM",
-            "DATE": "2026-04-28",
-            "TIME": "21:15:00",
-            "CURR_TEMP": "14.7",
-            "RH": "99",
-            "MSLP": null,
-            "Latitude": "25.2866",
-            "Longitude": "91.5764",
-            "RAINFALL_SEL": "0.2",
-            "RAINFALL": "7.7",
-            "Feel Like": "14.7",
-            "feels_like_calc": 14.7,
-            "summary": "Cool with Light Rain",
-            "icon": "\ud83c\udf27",
             "WEATHER_MESSAGE": "Clear Weather"
         },
         {
