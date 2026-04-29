@@ -1,7 +1,7 @@
 {
     "source": "IMD AWS/ARG",
-    "generated_at": "2026-04-29 04:02 UTC",
-    "station_count": 116,
+    "generated_at": "2026-04-29 04:22 UTC",
+    "station_count": 115,
     "data": [
         {
             "ID": "ARHAY000",
@@ -1382,26 +1382,6 @@
             "summary": "Pleasant with Heavy Rain",
             "icon": "\ud83c\udf27",
             "WEATHER_MESSAGE": "Heavy continuous rain"
-        },
-        {
-            "ID": "TRBGF000",
-            "DISTRICT": "SOUTH_TRIPURA",
-            "STATE": "TRIPURA",
-            "STATION": "BAGAFA",
-            "DATE": "2026-04-29",
-            "TIME": "01:15:00",
-            "CURR_TEMP": "23.5",
-            "RH": "100",
-            "MSLP": "1005.2",
-            "Latitude": "23.3123",
-            "Longitude": "91.5516",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "5.5",
-            "Feel Like": "23.5",
-            "feels_like_calc": 23.5,
-            "summary": "Pleasant",
-            "icon": "\ud83c\udf24",
-            "WEATHER_MESSAGE": "Clear Weather"
         },
         {
             "ID": "ARBSS000",
