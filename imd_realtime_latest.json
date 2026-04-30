@@ -1,7 +1,7 @@
 {
     "source": "IMD AWS/ARG",
-    "generated_at": "2026-04-30 09:22 UTC",
-    "station_count": 121,
+    "generated_at": "2026-04-30 09:42 UTC",
+    "station_count": 120,
     "data": [
         {
             "ID": "ARHAY000",
@@ -1999,26 +1999,6 @@
             "RAINFALL": "0.0",
             "Feel Like": "26.6",
             "feels_like_calc": 26.6,
-            "summary": "Pleasant",
-            "icon": "\ud83c\udf24",
-            "WEATHER_MESSAGE": "Clear Weather"
-        },
-        {
-            "ID": "ASHAF000",
-            "DISTRICT": "DIMA_HASAO",
-            "STATE": "ASSAM",
-            "STATION": "HAFLONG_AEGCL",
-            "DATE": "2026-04-30",
-            "TIME": "06:30:00",
-            "CURR_TEMP": "24.0",
-            "RH": "86",
-            "MSLP": "1010.2",
-            "Latitude": "25.191",
-            "Longitude": "93.0181",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.0",
-            "Feel Like": "24",
-            "feels_like_calc": 24.0,
             "summary": "Pleasant",
             "icon": "\ud83c\udf24",
             "WEATHER_MESSAGE": "Clear Weather"
