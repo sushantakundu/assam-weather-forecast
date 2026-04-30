@@ -1,7 +1,7 @@
 {
     "source": "IMD AWS/ARG",
-    "generated_at": "2026-04-30 08:22 UTC",
-    "station_count": 124,
+    "generated_at": "2026-04-30 08:42 UTC",
+    "station_count": 123,
     "data": [
         {
             "ID": "ARHAY000",
@@ -2179,26 +2179,6 @@
             "RAINFALL": "0.0",
             "Feel Like": "25.9",
             "feels_like_calc": 25.9,
-            "summary": "Pleasant",
-            "icon": "\ud83c\udf24",
-            "WEATHER_MESSAGE": "Clear Weather"
-        },
-        {
-            "ID": "ASHBA000",
-            "DISTRICT": "KARBI_ANGLONG(WEST)",
-            "STATE": "ASSAM",
-            "STATION": "HABANG_CIRCLE",
-            "DATE": "2026-04-30",
-            "TIME": "05:30:00",
-            "CURR_TEMP": "24.9",
-            "RH": "68",
-            "MSLP": "939.6",
-            "Latitude": "25.7152",
-            "Longitude": "92.2087",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.0",
-            "Feel Like": "24.9",
-            "feels_like_calc": 24.9,
             "summary": "Pleasant",
             "icon": "\ud83c\udf24",
             "WEATHER_MESSAGE": "Clear Weather"
