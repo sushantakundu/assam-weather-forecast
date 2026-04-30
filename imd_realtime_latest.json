@@ -1,7 +1,7 @@
 {
     "source": "IMD AWS/ARG",
-    "generated_at": "2026-04-30 08:42 UTC",
-    "station_count": 123,
+    "generated_at": "2026-04-30 09:02 UTC",
+    "station_count": 121,
     "data": [
         {
             "ID": "ARHAY000",
@@ -379,26 +379,6 @@
             "RAINFALL": "0.0",
             "Feel Like": "22.8",
             "feels_like_calc": 22.8,
-            "summary": "Pleasant",
-            "icon": "\ud83c\udf24",
-            "WEATHER_MESSAGE": "Clear Weather"
-        },
-        {
-            "ID": "MRSOS000",
-            "DISTRICT": "SENAPATI",
-            "STATE": "MANIPUR",
-            "STATION": "MAO",
-            "DATE": "2026-04-30",
-            "TIME": "06:00:00",
-            "CURR_TEMP": "20.8",
-            "RH": "70",
-            "MSLP": null,
-            "Latitude": "25.5088",
-            "Longitude": "94.1497",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.0",
-            "Feel Like": "20.8",
-            "feels_like_calc": 20.8,
             "summary": "Pleasant",
             "icon": "\ud83c\udf24",
             "WEATHER_MESSAGE": "Clear Weather"
@@ -2101,26 +2081,6 @@
             "feels_like_calc": 25.2,
             "summary": "Pleasant",
             "icon": "\ud83c\udf24",
-            "WEATHER_MESSAGE": "Clear Weather"
-        },
-        {
-            "ID": "ASMRY000",
-            "DISTRICT": "JORHAT",
-            "STATE": "ASSAM",
-            "STATION": "MARIYANI_AEGCL",
-            "DATE": "2026-04-30",
-            "TIME": "06:00:00",
-            "CURR_TEMP": "32.6",
-            "RH": "73",
-            "MSLP": "1009.5",
-            "Latitude": "26.6318",
-            "Longitude": "94.3357",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.0",
-            "Feel Like": "43.5",
-            "feels_like_calc": 43.5,
-            "summary": "Hot & Humid",
-            "icon": "\ud83d\udd25",
             "WEATHER_MESSAGE": "Clear Weather"
         },
         {
