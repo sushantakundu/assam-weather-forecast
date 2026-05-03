@@ -1,7 +1,7 @@
 {
     "source": "IMD AWS/ARG",
-    "generated_at": "2026-05-03 00:02 UTC",
-    "station_count": 114,
+    "generated_at": "2026-05-03 00:22 UTC",
+    "station_count": 111,
     "data": [
         {
             "ID": "ARHAY000",
@@ -361,26 +361,6 @@
             "feels_like_calc": 13.4,
             "summary": "Cool",
             "icon": "\u2744",
-            "WEATHER_MESSAGE": "Clear Weather"
-        },
-        {
-            "ID": "MRADC000",
-            "DISTRICT": "TENGNOUPAL",
-            "STATE": "MANIPUR",
-            "STATION": "ADC MOREH",
-            "DATE": "2026-05-02",
-            "TIME": "21:15:00",
-            "CURR_TEMP": "20.6",
-            "RH": "100",
-            "MSLP": "1003.9",
-            "Latitude": "24.2596",
-            "Longitude": "94.2897",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "5.0",
-            "Feel Like": "20.6",
-            "feels_like_calc": 20.6,
-            "summary": "Pleasant",
-            "icon": "\ud83c\udf24",
             "WEATHER_MESSAGE": "Clear Weather"
         },
         {
@@ -1264,26 +1244,6 @@
             "WEATHER_MESSAGE": "Clear Weather"
         },
         {
-            "ID": "TRCIT000",
-            "DISTRICT": "SIPAHIJALA",
-            "STATE": "TRIPURA",
-            "STATION": "CTI",
-            "DATE": "2026-05-02",
-            "TIME": "21:15:00",
-            "CURR_TEMP": "20.5",
-            "RH": "100",
-            "MSLP": null,
-            "Latitude": "23.7413",
-            "Longitude": "91.2728",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "13.0",
-            "Feel Like": "20.5",
-            "feels_like_calc": 20.5,
-            "summary": "Pleasant",
-            "icon": "\ud83c\udf24",
-            "WEATHER_MESSAGE": "Mist"
-        },
-        {
             "ID": "TRAGG000",
             "DISTRICT": "WEST_TRIPURA",
             "STATE": "TRIPURA",
@@ -1939,26 +1899,6 @@
             "RAINFALL": "26.5",
             "Feel Like": "20.2",
             "feels_like_calc": 20.2,
-            "summary": "Pleasant",
-            "icon": "\ud83c\udf24",
-            "WEATHER_MESSAGE": "Clear Weather"
-        },
-        {
-            "ID": "ASMRY000",
-            "DISTRICT": "JORHAT",
-            "STATE": "ASSAM",
-            "STATION": "MARIYANI_AEGCL",
-            "DATE": "2026-05-02",
-            "TIME": "21:15:00",
-            "CURR_TEMP": "23.1",
-            "RH": "100",
-            "MSLP": "1007.3",
-            "Latitude": "26.6318",
-            "Longitude": "94.3357",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.0",
-            "Feel Like": "23.1",
-            "feels_like_calc": 23.1,
             "summary": "Pleasant",
             "icon": "\ud83c\udf24",
             "WEATHER_MESSAGE": "Clear Weather"
