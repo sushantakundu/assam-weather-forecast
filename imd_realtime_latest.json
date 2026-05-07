@@ -1,7 +1,7 @@
 {
     "source": "IMD AWS/ARG",
-    "generated_at": "2026-05-07 00:02 UTC",
-    "station_count": 133,
+    "generated_at": "2026-05-07 00:22 UTC",
+    "station_count": 131,
     "data": [
         {
             "ID": "ARHAY000",
@@ -1204,26 +1204,6 @@
             "WEATHER_MESSAGE": "Raining Intermittently"
         },
         {
-            "ID": "MENEV000",
-            "DISTRICT": "EAST_KHASI_HILLS",
-            "STATE": "MEGHALAYA",
-            "STATION": "NEHU",
-            "DATE": "2026-05-06",
-            "TIME": "21:15:00",
-            "CURR_TEMP": "15.8",
-            "RH": "89",
-            "MSLP": null,
-            "Latitude": "25.6083",
-            "Longitude": "91.8919",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.5",
-            "Feel Like": "15.8",
-            "feels_like_calc": 15.8,
-            "summary": "Cool",
-            "icon": "\u2744",
-            "WEATHER_MESSAGE": "Raining Intermittently"
-        },
-        {
             "ID": "55E41E0E",
             "DISTRICT": "EAST_KHASI_HILLS",
             "STATE": "MEGHALAYA",
@@ -2279,26 +2259,6 @@
             "RAINFALL": "8.5",
             "Feel Like": "21.5",
             "feels_like_calc": 21.5,
-            "summary": "Pleasant",
-            "icon": "\ud83c\udf24",
-            "WEATHER_MESSAGE": "Clear Weather"
-        },
-        {
-            "ID": "ASRUP000",
-            "DISTRICT": "TINSUKIA",
-            "STATE": "ASSAM",
-            "STATION": "RUPAI_AEGCL",
-            "DATE": "2026-05-06",
-            "TIME": "21:15:00",
-            "CURR_TEMP": "23.3",
-            "RH": "90",
-            "MSLP": "1008.4",
-            "Latitude": "27.5989",
-            "Longitude": "95.566",
-            "RAINFALL_SEL": "0.0",
-            "RAINFALL": "0.0",
-            "Feel Like": "23.3",
-            "feels_like_calc": 23.3,
             "summary": "Pleasant",
             "icon": "\ud83c\udf24",
             "WEATHER_MESSAGE": "Clear Weather"
